@@ -2,11 +2,17 @@
 
 Hier finden Sie alle Informationen über das PostNAS-Suite Projekt, Dokumentationen, Demodaten und Links zum Download.
 
+Melden Sie sich gerne an der [PostNAS-Suite Mailingliste](https://lists.osgeo.org/mailman/listinfo/nas) an und stellen Ihre Fragen!
+
+
 ```
 Das nächstes PostNAS-Suite Anwendertreffen
 findet am 21.03, 16:45–17:45 Uhr auf der FOSSGIS 2024 in Hamburg statt (Onlineteilnahme ist möglich).
 https://pretalx.com/fossgis2024/talk/TSJM9V/
 ```
+
+
+
 
 ### PostNAS-Suite - Das Projekt
 
@@ -16,8 +22,10 @@ Die PostNAS Suite stellt dabei ein Importwerkzeug und -skripte, Mapserver-Mapdat
 
 Über das Python Werkzeug norGIS ALKIS Import können NAS-Dateien einfach importiert werden. Die QGIS-Erweiterung norGIS ALKIS dienst zur Visualsierung in QGIS. Aus QGIS heraus kann eine einfache Veröffentlichung als WMS über QGIS-Server erfolgen.
 
-- Übersicht der Komponenten
-- 
+- [Übersicht der Komponenten](postnas-suite-komponenten)
+- [PostNAS-Suite und Mapbender](postnas-suite-mapbender)
+ 
+
 
 ### Demo
 
@@ -26,15 +34,14 @@ Die Demoanwendung Rio-PostNAS-Demo des Oberbergischen Kreises verfügt über die
 - ​https://rio.obk.de/mapbender3/app.php/application/RIO_PostNAS_Demo
 
 
-### Download
+### Programme
 
 PostNAS ist eine Erweiterung von OGR, einem Teil des freien GDAL-Projektes. Unter dem Formatnamen "NAS" ist es seit Version 1.8.0 offizieller Bestandteil von GDAL/OGR. GDAL wird mit gängigen Linux-Distributionen ausgeliefert und ist üblicherweise über die Paketverwaltung verfügbar.
 
 ALKIS NAS-Import
-
-- ​norGIS-ALKIS-Import - freies Werkzeug zum Import von ALKIS-Datenin eine PostgreSQL/PostGIS Datenbank
-- GDAL/OGR Homepage - Import über die Kommandozeile
-- Layer laden via QGIS - Vektorlayer hinzufügen
+- [​norGIS-ALKIS-Import](https://www.norbit.de/68/) - freies Werkzeug zum Import von ALKIS-Datenin eine PostgreSQL/PostGIS Datenbank
+- [GDAL/OGR Homepage](https://gdal.org/) - Import über die Kommandozeile via [ogr2ogr](https://gdal.org/programs/ogr2ogr.html#ogr2ogr) (Format [NAS](https://gdal.org/drivers/vector/nas.html#vector-nas))
+- Layer laden via QGIS - Vektorlayer hinzufügen (Format NAS)
 
 Für Windows stehen aktuelle Versionen unter folgender Adresse zur Verfügung:
 
@@ -42,20 +49,14 @@ Für Windows stehen aktuelle Versionen unter folgender Adresse zur Verfügung:
 - ​http://www.gisinternals.com/sdk/ 
 
 
-### QGIS-Plugins
+### Unterstützung aus der Community
 
-- QGIS Plugins zum Thema ALKIS (derzeit ​norGIS ALKIS für QGIS und PostNAS Suchfunktionen) 
-
-
-### Anwenderunterstützung
-
-- ​PostNAS-Suite Mailingliste
-- PostNAS und Mapbender 
+- ​[PostNAS-Suite Mailingliste](https://lists.osgeo.org/mailman/listinfo/nas) - melden Sie sich gerne an der Mailingliste an und stellen Ihre Fragen!
 
 
-### Testdaten
+### Offene Daten und Testdaten
 
-- ALKIS-Testdaten
+- [Offene Daten und Testdaten](testdaten.md)
 
 ### Anwendertreffen
 
