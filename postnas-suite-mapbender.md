@@ -1,7 +1,5 @@
 ## PostNAS-Suite und Mapbender
 
-[[_TOC_]]
-
 ### Suchen
 
 - über das Element Suche (Search-Router) können in Mapbender Suchen definiert werden 
