@@ -46,7 +46,11 @@ ALKIS NAS-Import
 Für Windows stehen aktuelle Versionen unter folgender Adresse zur Verfügung:
 
 - ​http://osgeo4w.osgeo.org
-- ​http://www.gisinternals.com/sdk/ 
+- ​http://www.gisinternals.com/sdk/
+
+## Vorträge rund um PostNAS-Suite & AAA
+
+- [Vorträge](postnas-suite-vortraege)
 
 
 ### Unterstützung aus der Community
