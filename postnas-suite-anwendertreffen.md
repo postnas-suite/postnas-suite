@@ -13,4 +13,4 @@ Seit 2012 finden die PostNAS-Suite Anwendertreffen statt. Sie finden in der Rege
 
 Die Teilnahme an den Treffen ist offen.
 
-- [./anwendertreffen/postnas-suite-anwendertreffen-2023-03-13.md](FOSSGIS 2023 Berlin Adlershof 15.3.2023)
+- [FOSSGIS 2023 Berlin Adlershof 15.3.2023](./anwendertreffen/postnas-suite-anwendertreffen-2023-03-13.md)
