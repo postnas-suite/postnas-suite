@@ -69,6 +69,3 @@ Es finden zweimal im Jahr PostNAS-Suite Anwendertreffen statt. Die Protokolle de
 
 - Übersicht der [PostNAS-Suite Anwendertreffen](postnas-suite-anwendertreffen.md)
  
-
-
-[Impressum](impressum.md) [Datenschutz](datenschutz.md)
