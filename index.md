@@ -53,14 +53,15 @@ Für Windows stehen aktuelle Versionen unter folgender Adresse zur Verfügung:
 - [Vorträge](postnas-suite-vortraege.md)
 
 
-### Unterstützung aus der Community
+### Unterstützung
 
-- ​[PostNAS-Suite Mailingliste](https://lists.osgeo.org/mailman/listinfo/nas) - melden Sie sich gerne an der Mailingliste an und stellen Ihre Fragen!
-
+- Unterstützung aus der Community ​[PostNAS-Suite Mailingliste](https://lists.osgeo.org/mailman/listinfo/nas) - melden Sie sich gerne an der Mailingliste an und stellen Ihre Fragen!
+- kommerzielle Unterstützung durch diverse Dienstleiter ist möglich
 
 ### Offene Daten und Testdaten
 
 - [Offene Daten und Testdaten](testdaten.md)
+
 
 ### Anwendertreffen
 
@@ -70,3 +71,4 @@ Es finden zweimal im Jahr PostNAS-Suite Anwendertreffen statt. Die Protokolle de
  
 
 
+[Impressum](impressum.md) [Datenschutz](datenschutz.md)
