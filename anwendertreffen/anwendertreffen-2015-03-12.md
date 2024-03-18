@@ -17,10 +17,9 @@ Auf der FOSSGIS 2015 gab es ein PostNAS Anwendertreffen, das mit mehr als 35 Tei
 - Hinweis: der Import via ogr2ogr kann beschleunigt werden. Dabei muss ein weiterer Parameter gesetzt werden:
 - siehe http://www.gdal.org/ogr2ogr.html
 
-{{{
- -ogr2ogr mit Parameter -gt 
+ogr2ogr:
 
-}}}
+    -ogr2ogr mit Parameter -gt 
 
 
 - Codelisten demnächst Online: Armin Retterath weitere Infos
