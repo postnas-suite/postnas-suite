@@ -42,6 +42,6 @@ Astrid Emde berichtet von der ORACLE Unterstützung von PostNAS, die in den letz
 ### 6. regelmäßige Treffen der PostNAS Anwender 
 Wir haben beschlossen, regelmäßige Treffen der PostNAS Anwender durchzuführen. Die Treffen sind jeweils zur FOSSGIS und Intergeo geplant. Das nächste Treffen wird der Intergeo in Essen im Oktober http://www.intergeo.de/ sein. Ein passender Termin muss noch über die Liste abgestimmt werden.
 
-[[Image(http://24.media.tumblr.com/83f7d8db814724c6085f83ae8eb5989c/tumblr_molctd1g9I1swqyr5o1_1280.jpg)]]
+http://24.media.tumblr.com/83f7d8db814724c6085f83ae8eb5989c/tumblr_molctd1g9I1swqyr5o1_1280.jpg
 
-[[Image(http://24.media.tumblr.com/ef2f92c88a4604c6bc08eed3e940ac7f/tumblr_molqy0G2OD1rju95po9_1280.jpg)]]
+http://24.media.tumblr.com/ef2f92c88a4604c6bc08eed3e940ac7f/tumblr_molqy0G2OD1rju95po9_1280.jpg
