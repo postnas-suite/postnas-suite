@@ -145,7 +145,7 @@ ogr2ogr -append -update \
 
 
 #### Mapbender3
-- Dokumentation siehe http://trac.wheregroup.com/PostNAS/wiki/PostNASMapbender3
+- Dokumentation siehe ![Mapbender3](../postnas-suite-mapbender.md)
 - Rückmeldung Frau Emde: es liegen keine neuen Entwicklungen zur Absicherung vor. Lösung über Absicherung durch die Session ist angedacht.
 - Anmerkung Herr Schepers, Herr Kock: Lösung über LDAP wäre gewünscht, damit auch in QGIS WMS gesichert geladen werden kann
 - Frage zur gesicherten Infoabfrage in Mapbender3: https://lists.osgeo.org/pipermail/nas/2017-April/000971.html
@@ -182,7 +182,7 @@ Die SQLs und MapServer Dateien finden sich nun im svn. In Kürze werden die Date
 
 Nächstes Treffen
 - Marina Frau Kühn und Jutta Frau Lusebrink laden zum nächsten PostNAS Anwendertreffen nach Gummersbach im Kreishaus des Oberbergischen Kreises ein.
-- Das Treffen ist für den 25. Oktober 2017 geplant - anwendertreffen-2017-10-27.md. 
+- Das Treffen ist für den 25. Oktober 2017 geplant -![PostNASAnwendertreffen 2017-10-27](./anwendertreffen-2017-10-27.md)  
 - Beginn des Treffens: 11 Uhr
 
 anvisierte Treffen
