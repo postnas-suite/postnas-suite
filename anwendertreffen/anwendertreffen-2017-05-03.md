@@ -2,13 +2,12 @@
 
 - Termin: 03.05.2017 10 Uhr Stadthaus Münster
 - Moderation Norbert Dephoff, Johannes Brauner
-- Anmeldung über: https://www.terminplaner.nrw.de/foodle.php?id=3hx82i8nb35q8bdm
 - Einladungsmail: https://lists.osgeo.org/pipermail/nas/2017-March/000962.html
 - Teilnehmer/-Innen: 22 Personen
 
 ### Themen
 
-Beim 10. PostNAS Suite Anwendertreffen in Münster wurden viele Themen des letzten Treffens wieder aufgegriffen. Lesen Sie daher im Protokoll vom 7.12.2017 dem Diskussionsstand - ![PostNASAnwendertreffen 2017-10-25](./anwendertreffen-2017-10-25.md "PostNASAnwendertreffen 2017-10-25")
+Beim 10. PostNAS Suite Anwendertreffen in Münster wurden viele Themen des letzten Treffens wieder aufgegriffen. Lesen Sie daher im Protokoll vom 7.12.2017 dem Diskussionsstand ![PostNASAnwendertreffen 2016-12-07](./anwendertreffen-2016-12-07.md "PostNASAnwendertreffen 2016-12-07")
 
 
 **Themen**
@@ -27,7 +26,7 @@ Beim 10. PostNAS Suite Anwendertreffen in Münster wurden viele Themen des letzt
 - Bodenschätzung
 - Verschiedenes
  - Bericht von der FOSSGIS 2017 in Passau
- - nächstes Anwendertreffen am 25.10. in Gummersbach beim OBK - siehe [wiki:PostNASAnwendertreffen2017-10-25]
+ - nächstes Anwendertreffen am 25.10. in Gummersbach beim OBK - siehe ![PostNASAnwendertreffen 2017-10-25](./anwendertreffen-2017-10-25.md "PostNASAnwendertreffen 2017-10-25") 
  - zukünftige Vorträge / Workshops PostNAS
 
 ### Protokoll
@@ -76,7 +75,7 @@ Frage Richtung Buchauskunft:
 
 #### Darstellungsregeln der ALKIS-Daten
 - politische Grenzen sollten schon ab 1:1000000 dargestellt werden- Vorschlag
-- siehe Protokoll vom Treffen in Unna vom 25.05.2016  - [wiki:PostNASAnwendertreffen2016-05-25]
+- siehe Protokoll vom Treffen in Unna vom 25.05.2016  - ![PostNASAnwendertreffen 2016-12-07](./anwendertreffen-2016-12-07.md)
 - Übergänge wurden an norBIT weitergeleitet
 - ToDo NorBIT: Einbindung der Übergänge ggf. über Projektauftrag
 - Anmerkung Herr Wagner: jeder hat eigene Anforderungen und dafür eigene Lösung (z.B. Nutzung der Gebäude darf in BW nicht ausgegeben werden – diese muss Herr Wagner immer entfernen) aufgebaut. Für das Projekt sollte geschaut werden, wo sinnvoll Geld investiert werden soll. Hier stellt sich die Frage, wie einfach soll für Neueinsteiger der Einstieg sein? Oder soll eher in andere Themen investiert werden?
@@ -135,7 +134,7 @@ ogr2ogr -append -update \
 - Hintergrund: GDAL und QGIS unterstützen Kreisbögen, aber unabhängig voneinander. PostGIS unterstützt ebenfalls Kreisbögen.
 
 
-#### #### QGIS Server mit ALKIS-Infoauskunft
+#### QGIS Server mit ALKIS-Infoauskunft
 - Wunsch QGIS Server konfigurierbare FeatureInfo Ausgabe
 - ist bei MapServer und GeoServer möglich
 - Angebot bei norBIT wurde angefragt von KRZ (11 / 2016). Bisher liegt die Abschätzung noch nicht vor
