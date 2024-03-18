@@ -166,9 +166,8 @@ Die Daten enthalten u.a. die Punktkennung, Informationen zur Genauigkeit der Dat
 Durch ein Postprocessing werden die Daten in die Tabelle pp_punktnummernuebersicht überführt, die anschließend für die Darstellung und Beauskunftung verwendet wird.
 Es wurde außerdem eine MapServer Mapdatei zur Darstellung und Beauskunftung der Punkte erstellt. Diese Darstellung wurde beim Treffen vorgestellt und bekam eine positive Rückmeldung.
 Die SQLs und MapServer Dateien finden sich nun im svn. In Kürze werden die Daten auch in der PostNAS-Demo dargestellt.
-- MapServer http://trac.wheregroup.com/PostNAS/browser/trunk/umn/alkis_n/alkis_punktnummernuebersicht.map
+- MapServer https://github.com/postnas-suite/postnas-suite-mapserver/tree/main/mapserver
 - PostgreSQL http://trac.wheregroup.com/PostNAS/browser/trunk/import/punktnummernuebersicht
-- https://demo.postnas.org/application/alkis_demo
 - Anfrage: Das allgemeine Datenschema sollte um die fehlenden Spalten erweitert werden, so dass der Import dieser Spalten bei allen Anwendern erfolgt.
 - Workflow: sofern fehlende Spalten auffallen, sollte eine Mail an die Mailingliste geschickt und an Herrn Fischer weitergeleitet werden. Herr Fischer kann dann das Datenmodell erweitern.
 
