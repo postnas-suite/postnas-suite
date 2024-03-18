@@ -3,7 +3,6 @@
 
  - Moderation Olaf Knopp, Astrid Emde
  - Teilnehmer 7 Personen
- - http://postnas.org
 
 Das PostNAS Anwendertreffen fand im Rahmen der FOSSGIS im sonnigen Rapperswil statt. Nach einem ereignisreichen Tag auf der FOSSGIS trafen wir uns in kleinem Kreis. Die Beteiligten gaben Feedback zu PostNAS. Zusammenfassend kann gesagt werden, dass die Anwender vorwiegend mit PostNAS zufrieden sind. Einige Punkte wurden angesprochen.
 
