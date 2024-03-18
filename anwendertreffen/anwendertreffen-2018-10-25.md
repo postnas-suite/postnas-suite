@@ -47,16 +47,13 @@ Das letzte 1-tägige Treffen fand am 25.10.2017 in Gummersbach statt.
 MIt Hilfe des Protokolls wurde der Status der besprochenen Punkte festgehalten und diskutiert.
 
 Protokoll Treffen Gummersbach 25.10.2017
-- http://trac.wheregroup.com/PostNAS/wiki/PostNASAnwendertreffen2017-10-25
+- ![PostNASAnwendertreffen2017-10-25](./anwendertreffen-2017-10-25.md "PostNASAnwendertreffen2017-10-25")
 
 ##### Stand Release Punkttabellen
 - Code liegt vor
 - GDAL 2.3.3 liegt vor
 - Modell ist jetzt komplett
 - Hintergrund: Punktstatus ist relevat, um zu wissen, ob Messungen genau sind (Information über Punktauskunft)
-- siehe svn
- - http://trac.wheregroup.com/PostNAS/browser/trunk/import/punktnummernuebersicht
- - http://trac.wheregroup.com/PostNAS/browser/trunk/umn/alkis_n/alkis_punktnummernuebersicht.map
 
 
 ##### WebGIS-Demos
@@ -284,9 +281,6 @@ Stadtgrundkarte
 #### Treffen im Herbst 
 - 1-tägiges Treffen im Herbst 2019
 - Ort muss noch gefunden werden
-
-### Dateien zum Treffen 
-- http://trac.wheregroup.com/PostNAS/browser/trunk/anwendertreffen/2018-10-25-Bremen
 
 ### Dank 
 Herzlichen Dank an Andreas Borgardt für die fabelhafte Organisation des Treffen und an alle Beteiligten für die Beiträge und die rege Diskussion
