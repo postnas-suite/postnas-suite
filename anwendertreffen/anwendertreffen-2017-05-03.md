@@ -119,14 +119,9 @@ Frage Richtung Buchauskunft:
 - ogr2ogr Schalter  -ds_transaction sollte gesetzt werden
   - wurde von Herrn Fischer in GDAL eingebaut
   - wurde von Oliver Tonhofer angemerkt  siehe Mail Geometrietyp für Linien-Tabellen (12.01.2017)  https://lists.osgeo.org/pipermail/nas/2017-January/000954.html
-
-
-Ein Beispiel in AppleScript:
-
-    tell application "Foo"
-        beep
-    end tell
     
+ogr2ogr:
+
     ogr2ogr -append -update \
     -f PostgreSQL \
     -ds_transaction \
