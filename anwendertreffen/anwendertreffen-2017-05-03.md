@@ -121,13 +121,18 @@ Frage Richtung Buchauskunft:
   - wurde von Oliver Tonhofer angemerkt  siehe Mail Geometrietyp für Linien-Tabellen (12.01.2017)  https://lists.osgeo.org/pipermail/nas/2017-January/000954.html
 
 
-{{{
-ogr2ogr -append -update \
- -f PostgreSQL \
- -ds_transaction \
- -nlt CONVERT_TO_LINEAR \
- --config PG_USE_COPY YES
-}}}
+Ein Beispiel in AppleScript:
+
+    tell application "Foo"
+        beep
+    end tell
+    
+    ogr2ogr -append -update \
+    -f PostgreSQL \
+    -ds_transaction \
+    -nlt CONVERT_TO_LINEAR \
+    --config PG_USE_COPY YES
+
 
 #### Thema Kreisbögen
 - Rückmeldung Herr Fischer: Schweizer haben Kreisbögen eingebaut und rudern nun aber wieder zurück, weil Probleme auftreten
