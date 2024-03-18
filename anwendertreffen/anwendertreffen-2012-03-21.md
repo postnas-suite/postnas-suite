@@ -3,8 +3,6 @@
 
  - Moderation Olaf Knopp, Astrid Emde
  - Teilnehmer 21 Personen
- - http://postnas.org
-
 
 Die KRZ-Demo wurde vorgestellt und der Status von PostNAS wurde erläutert. In letzter Zeit erfolgte der Feinschliff an der Navigation- und Auskunft. Es wurden diverse Bugs in GDAL/OGR gefixt und das Datenbankschema wurde verfeinert. Das NBA Verfahren kann nun angewandt werden.
 
