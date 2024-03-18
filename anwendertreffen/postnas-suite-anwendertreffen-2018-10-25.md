@@ -294,6 +294,8 @@ Herzlichen Dank an Andreas Borgardt für die fabelhafte Organisation des Treffen
 
 ### Impressionen 
 
+![Gruppenfoto](/images/20181025_postnas_anwendertreffen_gruppenfoto.jpg)
+
 [[Image(http://trac.wheregroup.com/PostNAS/export/414/trunk/anwendertreffen/2018-10-25-Bremen/20181025_postnas_anwendertreffen_gruppenfoto.jpg)]]
 [[Image(http://trac.wheregroup.com/PostNAS/export/414/trunk/anwendertreffen/2018-10-25-Bremen/20181025_143532.jpg)]]
 [[Image(http://trac.wheregroup.com/PostNAS/export/414/trunk/anwendertreffen/2018-10-25-Bremen/20181025_143536.jpg)]]
