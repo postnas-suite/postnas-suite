@@ -7,8 +7,6 @@
 
 Am 20.03.2014 fand im Rahmen der FOSSGIS 2014 das PostNAS Anwendertreffen statt. Nach dem Vortragsprogramm trafen sich etwa 50 Anwender und Interessierte, um sich über Ihre Erfahrungen auszutauschen.
 
-http://trac.wheregroup.com/PostNAS/wiki/PostNASAnwendertreffen2014-03-20
-
 Bis auf eine Ausnahme, bei der ALKIS-Daten nach ORACLE importiert werden, setzen alle Anwender PostNAS für den Import der Daten nach PostgreSQL ein. Der Import erfolgt zuverlässig, so dass viele Anwender nun an der Aufbereitung und Weiterverarbeitung der arbeiten. Der Erstimport von Daten ist erfolgreich, ebenso der Import von Fortführungsdaten, sofern keine Historie berücksichtigt wird.
 
 Probleme wurden beim Import von großen Daten nach ORACLE festgestellt. Hierbei kann es vorkommen, dass Daten nicht importiert werden, was aber voraussichtlich auf den OCI-Treiber zurückzuführen ist und nicht auf ogr2ogr. 
@@ -35,7 +33,7 @@ Beim Anwendertreffen wurde die Suche anhand der Anwendung des Kreises Ostprignit
 
 Informationen zur Umsetzung mit Mapbender3 finden sich im PostNAs Wiki unter:
 
-http://trac.wheregroup.com/PostNAS/wiki/PostNASMapbender3
+![Mapbender3](../postnas-suite-mapbender.md)
 
 ### Sammlung von ALKIS Demodaten
 Es kam der Wunsch auf, eine Übersicht der ALKIS Demodaten der Bundesländer zu erstellen. Andreas Borgardt war so freundlich, nach Demodaten zu recherchieren, so dass die Sammlung bereits im PostNAS-Wiki vorliegt. Sofern jemand über weitere Demodaten verfügt, die verlinkt werden könnten, können diese gerne in der Liste ergänzt werden. Eine Mail an die Mailingliste reicht aus.
