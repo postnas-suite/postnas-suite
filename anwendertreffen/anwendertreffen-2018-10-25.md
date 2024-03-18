@@ -147,7 +147,7 @@ Protokoll Treffen Gummersbach 25.10.2017
 - TODO Andreas Borgardt: Feedback
 
 ##### 11. Import
-- Feedbacl: viele Logmeldungen zu Vaccum. Machen Auswertung Log sehr unübersichtlich
+- Feedback: viele Logmeldungen zu Vaccum. Machen Auswertung Log sehr unübersichtlich
 - TODO Frank Jäger: Schickt log-Datei an Jürgen Fischer zur Klärung
 
 
