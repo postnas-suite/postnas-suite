@@ -26,15 +26,15 @@ Die PostNAS Suite besteht aus verschiedenen Komponenten. Die folgende Tabelle so
 | PostNAS-ALKIS-Mapfile	| Mapfile für Mapserver			| source:trunk/umn/atkis [[http://map.krz.de/?Themen:ALKIS|Demo der KRZ Lemgo Mapbender2]]	| Frank Jäger, Astrid Emde	|
 | PostNAS-Navigation	| Suche nach Straßen, Namen, Flurstücken und Grundbüchern in Mapbender-WebGIS	|TBD	| Astrid Emde WherGroup, ehemals Frank Jäger	| 
 | PostNAS-Infoabfrage	| Templates für das FeatureInfo-Werkzeug. Anzeige von Flur- und Eigentümerdaten	| [https://github.com/postnas-suite/postnas-suite-php-info](https://github.com/postnas-suite/postnas-suite-php-info)			| Connor Härtl, Astrid Emde, ehemals Frank Jäger	| 
-| PostNAS-ATKIS-Mapfile	| Mapfile für Mapserver zur ATKIS Darstellung		| TBD , ATKIS Darstellung Geoportal RLP http://www.geoportal.rlp.de/portal/karten.html 	| Armin Retterath	|
-| QGIS-Server	| FCGI-Mapserver zur Visualisierung von QGIS-Projekten als WMS/WFS und WCS	| https://docs.qgis.org/3.34/en/docs/server_manual/	|	|
-| QGIS-WebClient | WebGIS-Client für QGIS-Server | http://www.qgis.org/de/site/about/features.html#qgis-web-client https://github.com/qgis/QGIS-Web-Client	|	|
+| PostNAS-ATKIS-Mapfile	| Mapfile für Mapserver zur ATKIS Darstellung		| TBD , ATKIS Darstellung Geoportal RLP [http://www.geoportal.rlp.de/portal/karten.html](http://www.geoportal.rlp.de/portal/karten.html) 	| Armin Retterath	|
+| QGIS-Server	| FCGI-Mapserver zur Visualisierung von QGIS-Projekten als WMS/WFS und WCS	| [https://docs.qgis.org/3.34/en/docs/server_manual/](https://docs.qgis.org/3.34/en/docs/server_manual/)	|	|
+| QGIS-WebClient | WebGIS-Client für QGIS-Server | [http://www.qgis.org/de/site/about/features.html#qgis-web-client](http://www.qgis.org/de/site/about/features.html#qgis-web-client) [https://github.com/qgis/QGIS-Web-Client](https://github.com/qgis/QGIS-Web-Client)	|	|
 
 
 ### PostNAS Suite - ALKIS Desktop
 
 | Komponente	| Aufgabe						| Referenz		| Beteiligte	|
 |---------------|-----------------|-----------------------|-------------------|
-| QGIS	| Desktop GIS für Linux, Windows und Macintosh					| http://www.qgis.org/de/site/		| OSGeo, QGIS-Entwicklerteam	|
-| norGIS ALKIS-Erweiterung	| QGIS-Erweiterung zur ALKIS-Dateneinbindung, Signaturierung nach !GeoInfoDok, Suchfunktion zu Eigentümer, Flurstücknummer, Adresse und zur Erzeugung eines Mapserver6/7-Mapfiles	| http://www.norbit.de/75/		| Jürgen Fischer	|
-| PostNAS-Suche	| QGIS-Erweiterung zur Flurstücksuche					| https://github.com/Kreis-Unna/PostNAS_Search	| Marvin Kinberger |
+| QGIS	| Desktop GIS für Linux, Windows und Macintosh					| [http://www.qgis.org/de/site/](http://www.qgis.org/de/site/)		| OSGeo, QGIS-Entwicklerteam	|
+| norGIS ALKIS-Erweiterung	| QGIS-Erweiterung zur ALKIS-Dateneinbindung, Signaturierung nach !GeoInfoDok, Suchfunktion zu Eigentümer, Flurstücknummer, Adresse und zur Erzeugung eines Mapserver6/7-Mapfiles	| [http://www.norbit.de/75/](http://www.norbit.de/75/)		| Jürgen Fischer	|
+| PostNAS-Suche	| QGIS-Erweiterung zur Flurstücksuche					| [https://github.com/Kreis-Unna/PostNAS_Search](https://github.com/Kreis-Unna/PostNAS_Search)	| Marvin Kinberger |
