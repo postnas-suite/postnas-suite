@@ -6,12 +6,12 @@
 
 Die KRZ-Demo wurde vorgestellt und der Status von PostNAS wurde erläutert. In letzter Zeit erfolgte der Feinschliff an der Navigation- und Auskunft. Es wurden diverse Bugs in GDAL/OGR gefixt und das Datenbankschema wurde verfeinert. Das NBA Verfahren kann nun angewandt werden.
 
-Die Tickets finden Sie unter: https://trac.wheregroup.com/PostNAS/report/6
+Die Tickets finden Sie unter: [http://trac.wheregroup.com/PostNAS/report/6](http://trac.wheregroup.com/PostNAS/report/6) 
 
-Schauen Sie sich die Demo einmal an: http://map.krz.de/mapwww/?Themen:ALKIS
+Schauen Sie sich die Demo einmal an: [http://map.krz.de/mapwww/?Themen:ALKIS](http://map.krz.de/mapwww/?Themen:ALKIS) 
 
 Armin Retterath und Tobias Dick (Universität Trier) hielten auf der FOSSGIS den Vortrag "NAS - BasisDLM Aufbereitung mit gdal/PostNAS"
-http://www.fossgis.de/konferenz/2012/programm/events/386.de.html
+[http://www.fossgis.de/konferenz/2012/programm/events/386.de.html](http://www.fossgis.de/konferenz/2012/programm/events/386.de.html)
 
 
 
@@ -38,7 +38,7 @@ Sekundärbestand der lesende Zugriff protokolliert werden muss.
 ### Historisierung 
 Bisher wurden historische Objekte immer direkt aus dem Sekundärbestand gelöscht.
 (Siehe
-http://trac.wheregroup.com/PostNAS/wiki/SchrittfuerSchritt#LadenderL%C3%B6sch-undReplacedatens%C3%A4tze)
+[http://trac.wheregroup.com/PostNAS/wiki/SchrittfuerSchritt#LadenderL%C3%B6sch-undReplacedatens%C3%A4tze](http://trac.wheregroup.com/PostNAS/wiki/SchrittfuerSchritt#LadenderL%C3%B6sch-undReplacedatens%C3%A4tze) )
 
 Nach dem letzten Patch zur Verarbeitung von Replace/Update-Datensätzen (dies betrifft Branch 0.7) wird es auch möglich, historische Objekte weiter im Sekundärbestand zu belassen.
 Das Feld "identifier" und das Feld für das "Ende des Lebenszeitintervalls" ist dazu in allen Tabellen des Schemas einzufügen. Jürgen Fischer steht hier als Ansprechpartner zur Verfügung. Der Patch muss noch in den Code im SVN eingefügt werden

@@ -23,7 +23,7 @@ Der Kreis Unna hat das Info-Toll, das Frank Jäger entwickelt hat, um die Themen
 ### 3. Anpassungen für ATKIS - Ralf Suhr
 
 Ralf Suhr hat sich in den letzten Monaten strak mit dem Thema ATKIS befasst und berichtet vom erfolgreichen Import von ATKIS Daten.
-Im SVN liegen bereits Skripte von Armin Retterath zu ALKIS siehe: https://trac.wheregroup.com/PostNAS/browser/trunk/import/atkis_rp_rendering
+Im SVN liegen bereits Skripte von Armin Retterath zu ALKIS siehe: [https://trac.wheregroup.com/PostNAS/browser/trunk/import/atkis_rp_rendering](https://trac.wheregroup.com/PostNAS/browser/trunk/import/atkis_rp_rendering)
 
 
 
@@ -39,7 +39,7 @@ Astrid Emde berichtet von der ORACLE Unterstützung von PostNAS, die in den letz
 
 
 ### 6. regelmäßige Treffen der PostNAS Anwender 
-Wir haben beschlossen, regelmäßige Treffen der PostNAS Anwender durchzuführen. Die Treffen sind jeweils zur FOSSGIS und Intergeo geplant. Das nächste Treffen wird der Intergeo in Essen im Oktober http://www.intergeo.de/ sein. Ein passender Termin muss noch über die Liste abgestimmt werden.
+Wir haben beschlossen, regelmäßige Treffen der PostNAS Anwender durchzuführen. Die Treffen sind jeweils zur FOSSGIS und Intergeo geplant. Das nächste Treffen wird der Intergeo in Essen im Oktober [http://www.intergeo.de/](http://www.intergeo.de/) sein. Ein passender Termin muss noch über die Liste abgestimmt werden.
 
 ![Foto 1](http://24.media.tumblr.com/83f7d8db814724c6085f83ae8eb5989c/tumblr_molctd1g9I1swqyr5o1_1280.jpg)
 

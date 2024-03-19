@@ -2,7 +2,7 @@
 
 
 - Termin: Mittwoch 15.3.2023 FOSSGIS 2023 Berlin Adlershof
-- Ankündigung: https://pretalx.com/fossgis2023/talk/LZQ7HA/
+- Ankündigung: [https://pretalx.com/fossgis2023/talk/LZQ7HA/](https://pretalx.com/fossgis2023/talk/LZQ7HA/)
 - Einladungsmail:
 - Teilnehmer/-Innen: +- 30 Personen
 
@@ -42,7 +42,7 @@ Stimmen der Anwender*innen:
 
 **Was muss im Zuge von GeoInfoDok 7 noch angepasst werden?**
 
-Jürgen Fischer der Entwickler von norGIS-ALKIS-Import (https://www.norbit.de/68/) und Betreuer der OGR-Unterstützung für NAS berichtet, dass der Code für die GeoInfoDok7 bereits vorliegt (siehe Branch gid7 https://github.com/norBIT/alkisimport/tree/gid7).
+Jürgen Fischer der Entwickler von norGIS-ALKIS-Import ([https://www.norbit.de/68/](https://www.norbit.de/68/)) und Betreuer der OGR-Unterstützung für NAS berichtet, dass der Code für die GeoInfoDok7 bereits vorliegt (siehe Branch gid7 [https://github.com/norBIT/alkisimport/tree/gid7](https://github.com/norBIT/alkisimport/tree/gid7)).
 
 Neuer Konverter für GeoInfoDok 7 inkl. Signaturenkatalog wird erstellt. „Alter Konverter“ (für GID6) soll aber weiterhin vorhanden bleiben. OSGeo4G bietet dann zwei Versionen des Konverter an.
 
