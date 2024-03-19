@@ -387,3 +387,8 @@ results:
       fillOpacity: 0.7
 ```
 
+
+
+##Erweiterte Informationen via PHP-Auskunftsskripte
+
+- siehe [https://postnas-suite.github.io/postnas-suite/postnas-suite-buchauskunft.html](https://postnas-suite.github.io/postnas-suite/postnas-suite-buchauskunft.html)
