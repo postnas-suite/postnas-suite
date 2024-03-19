@@ -28,4 +28,4 @@ Die Teilnahme an den Treffen ist offen.
 - [FOSSGIS 2015](./anwendertreffen/anwendertreffen-2015-03-12.md) 
 - [FOSSGIS 2014](./anwendertreffen/anwendertreffen-2014-03-20.md) 
 - [FOSSGIS 2013](./anwendertreffen/anwendertreffen-2013-06-15.md) 
-- [FOSSGIS 2012](./anwendertreffen/postnas-suite-anwendertreffen-2012-03-21.md) 
+- [FOSSGIS 2012](./anwendertreffen/anwendertreffen-2012-03-21.md) 
