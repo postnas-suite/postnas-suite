@@ -7,7 +7,7 @@ Die PostNAS Suite besteht aus verschiedenen Komponenten. Die folgende Tabelle so
 
 | Komponente		| Aufgabe					| Referenz							| Beteiligte				|
 |---------------|-----------------|-----------------------|-------------------|
-| [norGIS ALKIS-Import](http://www.norbit.de/68/)	| Konvertierung der ALKIS-Daten aus dem NBA-Verfahren mit Bedienoberfläche oder Shellskript für ogr2ogr mit norBIT-Datenbankschema in PostGIS-Datenbanken	| https://github.com/norBIT/alkisimport/ 						| Jürgen Fischer norBIT http://www.norbit.de 			| 
+| [norGIS ALKIS-Import](http://www.norbit.de/68/)	| Konvertierung der ALKIS-Daten aus dem NBA-Verfahren mit Bedienoberfläche oder Shellskript für ogr2ogr mit norBIT-Datenbankschema in PostGIS-Datenbanken	| [https://github.com/norBIT/alkisimport/](https://github.com/norBIT/alkisimport/) 						| Jürgen Fischer norBIT http://www.norbit.de 			| 
 | postNAS ALKIS-Import		| Konvertierung der ALKIS-Daten aus dem NBA-Verfahren per Shellscript für ogr2ogr mit postNAS-Datenbankschema für PostGIS-Datenbanken.	| TBD					| Astrid Emde WhereGroup https://wheregroup.com	, ehemals Frank Jäger | 
 | GDAL/OGR-Bibliothek		| Import der ALKIS-Daten über die in ogr2ogr integrierte NAS-Schnittstelle in verschiedene Formate		| https://gdal.org ,  NAS Treiber 	https://gdal.org/drivers/vector/nas.html	| Entwicklungen NAS-Schnittstelle Jürgen Fischer, Erstimplementation durch Frank Warmerdam		|
 | xmi2db		| Werkzeug zur Erzeugung von SQL-Schema und GFS-Datei aus den offiziellen XMI-Schemata			| http://github.com/pkorduan/xmi2db						| Peter Korduan GDI-Service Rostock http://gdi-service.de/ 		|
