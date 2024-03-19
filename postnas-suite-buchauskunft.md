@@ -4,7 +4,7 @@
 
 #### PHP-Auskunftsskripte
 - die PHP-Auskunftsskripte befinden sich im github [https://github.com/postnas-suite/postnas-suite-php-info](https://github.com/postnas-suite/postnas-suite-php-info)
-- die PHP-Auskunftsskripte werden in einen aufrufbaren Ordner kopiert, z.B. mapbender/web/info
+- die PHP-Auskunftsskripte werden in einen aufrufbaren Ordner kopiert, z.B. **mapbender/web/info**
 - sie können im Mapserver-Template der Flurstücke verlinkt werden [https://github.com/postnas-suite/postnas-suite-mapserver/tree/main/mapserver/alkis_n/templates](https://github.com/postnas-suite/postnas-suite-mapserver/tree/main/mapserver/alkis_n/templates)
 
 **Beispiel:**
