@@ -20,7 +20,7 @@ Beispiel:
 '''   
 
 
-![Suche und FeatureInfo im Mapbender](../images/Mapbender_Integration_von_Auskunftsskripten.png)
-![Buchauskunft: Flurstück mit Eigentümer](../images/PHP_Auskunftsskript_Flurstueck_Eigentuermer.png)
-![Buchauskunft: Flurstück mit Gebäude](../images/PHP_Auskunftsskript_Flurstueck_Gebaeude.png)
+![Suche und FeatureInfo im Mapbender](images/Mapbender_Integration_von_Auskunftsskripten.png)
+![Buchauskunft: Flurstück mit Eigentümer](images/PHP_Auskunftsskript_Flurstueck_Eigentuermer.png)
+![Buchauskunft: Flurstück mit Gebäude](images/PHP_Auskunftsskript_Flurstueck_Gebaeude.png)
 
