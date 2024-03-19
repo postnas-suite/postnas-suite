@@ -8,7 +8,7 @@ Melden Sie sich gerne an der [PostNAS-Suite Mailingliste](https://lists.osgeo.or
 ```
 Das nächstes PostNAS-Suite Anwendertreffen
 findet am 21.03, 16:45–17:45 Uhr auf der FOSSGIS 2024 in Hamburg statt (Onlineteilnahme ist möglich).
-https://pretalx.com/fossgis2024/talk/TSJM9V/
+[https://pretalx.com/fossgis2024/talk/TSJM9V/](https://pretalx.com/fossgis2024/talk/TSJM9V/)
 ```
 
 
@@ -24,6 +24,7 @@ Die PostNAS Suite stellt dabei ein Importwerkzeug und -skripte, Mapserver-Mapdat
 
 - [Übersicht der Komponenten](postnas-suite-komponenten.md)
 - [PostNAS-Suite und Mapbender](postnas-suite-mapbender.md)
+- [PostNAS-Suite und Buchauskunft](postnas-suite-buchauskunft.md)
  
 
 
@@ -31,7 +32,7 @@ Die PostNAS Suite stellt dabei ein Importwerkzeug und -skripte, Mapserver-Mapdat
 
 Die Demoanwendung Rio-PostNAS-Demo des Oberbergischen Kreises verfügt über die Visualisierung von ALKIS, der Punktnummernübersicht sowie von Straßen- und Gebäudemarkern.
 
-- ​https://rio.obk.de/mapbender3/app.php/application/RIO_PostNAS_Demo
+- [​https://rio.obk.de/mapbender3/app.php/application/RIO_PostNAS_Demo](​https://rio.obk.de/mapbender3/app.php/application/RIO_PostNAS_Demo)
 
 
 ### Programme
@@ -45,8 +46,8 @@ ALKIS NAS-Import
 
 Für Windows stehen aktuelle Versionen unter folgender Adresse zur Verfügung:
 
-- ​http://osgeo4w.osgeo.org
-- ​http://www.gisinternals.com/sdk/
+- ​[http://osgeo4w.osgeo.org](http://osgeo4w.osgeo.org)
+- [​http://www.gisinternals.com/sdk/](​http://www.gisinternals.com/sdk/)
 
 ## Vorträge rund um PostNAS-Suite & AAA
 
