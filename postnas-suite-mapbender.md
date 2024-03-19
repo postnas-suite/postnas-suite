@@ -1,6 +1,6 @@
 ## PostNAS-Suite und Mapbender
 
-### Suchen
+## Suchen
 
 - über das Element Suche (Search-Router) können in Mapbender Suchen definiert werden 
 - ALKIS-Suchen nach Flurstück, Eigentümer und Adresse können so angeboten werden
@@ -17,6 +17,8 @@ Dazu müssen folgende Schritte zur Vorbereitung erfolgen
    -  siehe https://doc.mapbender.org/de/functions/search/search_router.html
 
 Das Suchen-Element kann dann mit den folgenden YAML-Definitionen konfiguriert werden.
+
+### PostgreSQL-Views für die Suchen in der Datenbank erzeugen
 
 #### View Flurstückssuche
 
@@ -106,6 +108,284 @@ CREATE OR REPLACE VIEW public.qry_mb3_grundbuch_suche AS
              JOIN ax_buchungsstelle bs ON (bs.gml_id=ANY(s.an) OR bs.gml_id=ANY(s.zu))
          JOIN ax_flurstueck f ON f.istgebucht = bs.gml_id AND f.endet IS NULL) foo;
 ```
+
+### Konfiguration des Search-Routers
+
+#### Flurstückssuche
+
+```
+class: Mapbender\CoreBundle\Component\SQLSearchEngine
+class_options:
+  connection: alkis
+  relation: qry_mb3_ax_flurstueck_suche
+  attributes:
+    - gml_id
+    - gemarkungsnummer
+    - gemarkungsname
+    - flurnummer
+    - zaehler
+    - nenner
+    - flurstueckskennzeichen
+  geometry_attribute: the_geom_etrs
+form:
+  gemarkungsnummer:
+    type: text
+    options:
+      required: false
+    compare: exact
+  flurnummer:
+    type: text
+    options:
+      label: Flur
+      required: false
+      attr:
+        data-autocomplete: 'on'
+        data-autocomplete-distinct: 'on'
+        data-autocomplete-using: gemarkungsname
+  zaehler:
+    type: text
+    options:
+      label: Zähler
+      required: true
+      attr:
+        data-autocomplete: 'on'
+        data-autocomplete-distinct: 'on'
+        data-autocomplete-using: gemarkungsname
+  nenner:
+    type: text
+    options:
+      label: Nenner
+      required: false
+      attr:
+        data-autocomplete: 'on'
+        data-autocomplete-distinct: 'on'
+        data-autocomplete-using: gemarkungsname
+results:
+  view: table
+  headers:
+    flurnummer: Flur
+    zaehler: Zähler
+    nenner: Nenner
+    gemarkungsnummer: Gemarkung
+  callback:
+    event: click
+    options:
+      buffer: 50
+```
+
+#### Adresssuche
+
+```
+class: Mapbender\CoreBundle\Component\SQLSearchEngine
+class_options:
+  connection: alkis
+  relation: qry_mb3_adresse_suche
+  attributes:
+    - kreis
+    - gemeindenummer
+    - hausnummer
+    - gemeindename
+    - strasse
+  geometry_attribute: the_geom_etrs
+form:
+  gemeindename:
+    type: text
+    options:
+      required: false
+  strasse:
+    type: text
+    options:
+      label: Straße
+      required: false
+      attr:
+        data-autocomplete: 'on'
+        data-autocomplete-distinct: 'on'
+        data-autocomplete-using: gemeindename
+  hausnummer:
+    type: text
+    options:
+      label: Hausnummer
+      required: false
+      attr:
+        data-autocomplete: 'on'
+        data-autocomplete-distinct: 'on'
+        data-autocomplete-using: bezeichnung
+results:
+  view: table
+  headers:
+    strasse: Straße
+    hausnummer: Hausnr.
+    gemeindename: Ort
+  callback:
+    event: click
+    options:
+      buffer: 50```
+
+
+#### Eigentümersuche
+
+```
+class: Mapbender\CoreBundle\Component\SQLSearchEngine
+class_options:
+  connection: alkis
+  relation: qry_mb3_eigentuemer_suche_union
+  attributes:
+    - gb_blatt
+    - buchgsart
+    - nachname
+    - vorname
+    - bezirkname
+    - fs_zaehler
+    - fs_nenner
+    - flur
+    - flurstueckskennzeichen
+  geometry_attribute: geom
+form:
+  nachname:
+    type: text
+    options:
+      label: Nachname
+      required: false
+    compare: ilike
+  vorname:
+    type: text
+    options:
+      label: Vorname
+      required: false
+    compare: ilike
+  gb_blatt:
+    type: text
+    options:
+      label: 'Grundbuchblattnummer (GB-NR)'
+      required: false
+    compare: exact
+  bezirkname:
+    type: text
+    options:
+      label: Bezirk
+      required: false
+      attr:
+        data-autocomplete: 'on'
+        data-autocomplete-distinct: 'on'
+        data-autocomplete-using: flur
+  flur:
+    type: text
+    options:
+      label: Flur
+      required: false
+      attr:
+        data-autocomplete: 'on'
+        data-autocomplete-distinct: 'on'
+        data-autocomplete-using: flur
+  fs_zaehler:
+    type: text
+    options:
+      label: Zähler
+      required: false
+      attr:
+        data-autocomplete: 'on'
+        data-autocomplete-distinct: 'on'
+        data-autocomplete-using: flur
+  fs_nenner:
+    type: text
+    options:
+      label: Nenner
+      required: false
+      attr:
+        data-autocomplete: 'on'
+        data-autocomplete-distinct: 'on'
+        data-autocomplete-using: flur
+results:
+  view: table
+  headers:
+    nachname: Nachname
+    vorname: Vorname
+    flurstueckskennzeichen: Flstk.
+    gb_blatt: GB-NR
+    bezirkname: Bezirk
+    flur: Flur
+  callback:
+    event: click
+    options:
+      buffer: 40
+      minScale: null
+      maxScale: null```
+
+
+#### Grundbuchsuche
+
+```
+class: Mapbender\CoreBundle\Component\SQLSearchEngine
+class_options:
+  connection: alkis
+  relation: qry_mb3_grundbuch_suche
+  attributes:
+    - gb_blatt
+    - buchungsart
+    - bezirk
+    - bezirkname
+    - ergebnis
+    - gemarkungsname
+  geometry_attribute: geom
+form:
+  gemarkungsname:
+    type: Symfony\Component\Form\Extension\Core\Type\ChoiceType
+    options:
+      label: Gemarkung
+      required: false
+      placeholder: 'Bitte wählen Sie einen Gemarkung aus'
+      choices:
+        Ort1: Ort1
+        Ort2: Ort2
+        Ort3: Ort3
+    compare: exact
+  gb_blatt:
+    type: Symfony\Component\Form\Extension\Core\Type\TextType
+    label: 'Grundbuchblattnummer (GB-NR)'
+    options:
+      required: false
+    compare: exact
+  buchungsart:
+    type: Symfony\Component\Form\Extension\Core\Type\TextType
+    label: Buchungsart
+    options:
+      required: false
+    compare: exact
+results:
+  view: table
+  headers:
+    gb_blatt: GB-NR
+    buchungsart: Buchungsart
+    ergebnis: Buchung/Flurstück
+    gemarkungsname: Gemarkung
+  callback:
+    event: click
+    options:
+      buffer: 200
+      minScale: null
+      maxScale: null
+  styleMap:
+    default:
+      strokeColor: '#FF0000'
+      strokeOpacity: 0.4
+      strokeWidth: 4
+      fillColor: '#FF0000'
+      fillOpacity: 0.4
+      pointRadius: 10
+    select:
+      strokeColor: '#66D9FF' #
+      strokeWidth: 4
+      strokeOpacity: 0.9
+      fillColor: '#66D9FF'
+      fillOpacity: 0.7
+      pointRadius: 10
+    temporary:
+      strokeColor: '#66FF33'
+      strokeWidth: 4
+      strokeOpacity: 0.9
+      fillColor: '#66FF33'
+      fillOpacity: 0.7```
+
 
 
 ### Erweitere Informationen via PHP-Auskunftsskripte 
