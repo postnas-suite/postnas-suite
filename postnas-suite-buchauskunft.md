@@ -9,7 +9,7 @@
 
 Beispiel:
 
-'''
+```
 (function() {
 	var selParcel = '[gml_id]';
 	var link = 'http://alkis.mapbender3.org/mapbender3/web/info/alkis/alkisausk.php?gkz=xxx&gmlid=' 
@@ -17,7 +17,7 @@ Beispiel:
 	window.open(link,'','left=0,top=20,width=600,height=800,resizable=yes,menubar=no,toolbar=no,
         location=no,status=no,scrollbar=yes');
 })();
-'''   
+```   
 
 
 ![Suche und FeatureInfo im Mapbender](images/Mapbender_Integration_von_Auskunftsskripten.png)
