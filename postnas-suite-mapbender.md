@@ -387,8 +387,3 @@ results:
       fillOpacity: 0.7
 ```
 
-
-
-### Erweiterte Informationen via PHP-Auskunftsskripte 
-
-TBD
