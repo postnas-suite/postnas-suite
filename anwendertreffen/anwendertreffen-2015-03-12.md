@@ -1,4 +1,4 @@
-## PostNAS-Suite Anwendertreffen am 120.3.2015 auf der FOSSGIS in Münster
+## PostNAS-Suite Anwendertreffen am 12.3.2015 auf der FOSSGIS in Münster
 
 
 - Moderation: 
