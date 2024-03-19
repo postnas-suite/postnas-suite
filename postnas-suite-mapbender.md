@@ -389,6 +389,6 @@ results:
 
 
 
-### Erweitere Informationen via PHP-Auskunftsskripte 
+### Erweiterte Informationen via PHP-Auskunftsskripte 
 
 TBD
