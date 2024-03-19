@@ -18,8 +18,8 @@ Auf der FOSSGIS gab es außerdem einen Vortrag über die PostNAS-Suite:
  - Mittwoch 6.7.2016 11:30 Uhr
  - Astrid Emde und Jelto Buurman
  - [http://frab.fossgis-konferenz.de/de/2016/public/events/5027](http://frab.fossgis-konferenz.de/de/2016/public/events/5027)
- - [http://frab.fossgis-konferenz.de/system/event_attachments/attachments/000/000/060/original/FOSSGIS_2016_PostNAS_AEmde_JBuurman.pdf?1467802471](Folien)
- - [https://www.youtube.com/watch?v=hQGiUbHmCwA Videoaufzeichnung] ([http://www.fossgis-konferenz.de/2016/videos/](Videos)
+ - [Folien](http://frab.fossgis-konferenz.de/system/event_attachments/attachments/000/000/060/original/FOSSGIS_2016_PostNAS_AEmde_JBuurman.pdf?1467802471))
+ - [Videoaufzeichnung](https://www.youtube.com/watch?v=hQGiUbHmCwA) [Videos](http://www.fossgis-konferenz.de/2016/videos/)
 
 
 ### Themen 
