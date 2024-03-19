@@ -7,7 +7,8 @@
 - die PHP-Auskunftsskripte werden in einen aufrufbaren Ordner kopiert, z.B. mapbender/web/info
 - sie können im Mapserver-Template der Flurstücke verlinkt werden [https://github.com/postnas-suite/postnas-suite-mapserver/tree/main/mapserver/alkis_n/templates](https://github.com/postnas-suite/postnas-suite-mapserver/tree/main/mapserver/alkis_n/templates)
 
-Beispiel:
+**Beispiel:**
+
 
 '''
 (function() {
@@ -18,6 +19,7 @@ Beispiel:
         location=no,status=no,scrollbar=yes');
 })();
 '''   
+
 
 ![Suche und FeatureInfo im Mapbender](../images/PMapbender_Integration_von_Auskunftsskripten.png)
 ![Buchauskunft: Flurstück mit Eigentümer](../images/PHP_Auskunftsskript_Flurstueck_Eigentuermer.png)
