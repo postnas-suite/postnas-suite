@@ -219,8 +219,8 @@ results:
   callback:
     event: click
     options:
-      buffer: 50```
-
+      buffer: 50
+```
 
 #### Eigentümersuche
 
@@ -309,8 +309,8 @@ results:
     options:
       buffer: 40
       minScale: null
-      maxScale: null```
-
+      maxScale: null
+```
 
 #### Grundbuchsuche
 
@@ -384,7 +384,8 @@ results:
       strokeWidth: 4
       strokeOpacity: 0.9
       fillColor: '#66FF33'
-      fillOpacity: 0.7```
+      fillOpacity: 0.7
+```
 
 
 
