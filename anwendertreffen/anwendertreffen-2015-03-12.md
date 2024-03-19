@@ -3,7 +3,7 @@
 
 - Moderation: 
 - Teilnehmer: über 35 Personen
-- FOSSGIS 2015 Programm: http://www.fossgis.de/konferenz/2015/programm/events/790.de.html
+- FOSSGIS 2015 Programm: [http://www.fossgis.de/konferenz/2015/programm/events/790.de.html](http://www.fossgis.de/konferenz/2015/programm/events/790.de.html)
 
 Auf der FOSSGIS 2015 gab es ein PostNAS Anwendertreffen, das mit mehr als 35 Teilnehmern sehr gut besucht war. Bei dem Treffen wurden Erfahrungen ausgetauscht. Die Anwender konnten von sehr guten Erfahrungen berichten. Dennoch können noch Bereiche verbessert werden. Es wurden außerdem Themen diskutiert, die zukünftig angegangen werden könnten. Die Themen wurden gesammelt und sollen auf dem nächsten Anwendertreffen am 21.4. 2015 in Münster weiter erörtert werden.
 
@@ -11,11 +11,11 @@ Auf der FOSSGIS 2015 gab es ein PostNAS Anwendertreffen, das mit mehr als 35 Tei
 
 #### ATKIS
 - ATKIS - Armin Retterath arbeitet derzeit an einer neuen Version der ATKIS Darstellung. Diese neue Version des Mapfiles wird vom Geoportal RLP in Kürze bereitgestellt.
-- http://www.geoportal.rlp.de/
+- [http://www.geoportal.rlp.de/](http://www.geoportal.rlp.de/)
 
 #### ogr2ogr beschleunigter Import 
 - Hinweis: der Import via ogr2ogr kann beschleunigt werden. Dabei muss ein weiterer Parameter gesetzt werden:
-- siehe http://www.gdal.org/ogr2ogr.html
+- siehe [http://www.gdal.org/ogr2ogr.html](http://www.gdal.org/ogr2ogr.html)
 
 ogr2ogr:
 

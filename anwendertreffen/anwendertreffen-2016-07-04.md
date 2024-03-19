@@ -2,24 +2,24 @@
 
 
 - Termin: 4.07.2016 18:30 Uhr FOSSGIS Konferenz Salzburg
-- http://frab.fossgis-konferenz.de/de/2016/public/events/5026
-- Einladungsmail: https://lists.osgeo.org/pipermail/nas/2016-May/000847.html
+- [http://frab.fossgis-konferenz.de/de/2016/public/events/5026](http://frab.fossgis-konferenz.de/de/2016/public/events/5026)
+- Einladungsmail: [https://lists.osgeo.org/pipermail/nas/2016-May/000847.html](https://lists.osgeo.org/pipermail/nas/2016-May/000847.html)
 - +-20 TeilnehmerInnen
 
 Seit einigen Jahren führen wir ein Anwendertreffen auf der FOSSGIS Konferenz durch. Dieses Treffen fand auch 2016 auf der FOSSGIS in Salzburg statt. 
 
 Die FOSSGIS wurde 2016 gemeinsam mit der AGIT veranstaltet.
- - http://www.fossgis-konferenz.de/2016/
- - http://www.agit.at/
+ - [http://www.fossgis-konferenz.de/2016/](http://www.fossgis-konferenz.de/2016/)
+ - [http://www.agit.at/](http://www.agit.at/)
 
 Auf der FOSSGIS gab es außerdem einen Vortrag über die PostNAS-Suite:
 
 ***Vortrag: PostNAS-Suite - Lösungen für den ALKIS Datenimport, die Darstellung, Informationsausgabe und Suche***
  - Mittwoch 6.7.2016 11:30 Uhr
  - Astrid Emde und Jelto Buurman
- - http://frab.fossgis-konferenz.de/de/2016/public/events/5027
- - [http://frab.fossgis-konferenz.de/system/event_attachments/attachments/000/000/060/original/FOSSGIS_2016_PostNAS_AEmde_JBuurman.pdf?1467802471 Folien]
- - [https://www.youtube.com/watch?v=hQGiUbHmCwA Videoaufzeichnung] ([http://www.fossgis-konferenz.de/2016/videos/ weitere Videos])
+ - [http://frab.fossgis-konferenz.de/de/2016/public/events/5027](http://frab.fossgis-konferenz.de/de/2016/public/events/5027)
+ - [http://frab.fossgis-konferenz.de/system/event_attachments/attachments/000/000/060/original/FOSSGIS_2016_PostNAS_AEmde_JBuurman.pdf?1467802471](Folien)
+ - [https://www.youtube.com/watch?v=hQGiUbHmCwA Videoaufzeichnung] ([http://www.fossgis-konferenz.de/2016/videos/](Videos)
 
 
 ### Themen 

@@ -2,7 +2,6 @@
 
 
 - Termin: 21.4.2015 Stadthaus Münster
-- Einladungsmail: http://lists.osgeo.org/pipermail/nas/2015-March/000768.html
 
 
 ### Themen 
@@ -32,9 +31,9 @@
  - Jürgen Fischer hat bereits Views angelegt, die die PostNAS Tabellen/Views abbilden, so dass die Auskunfts-Skripte von PostNAS aufgerufen werden könnten.
  - QGIS Server WMS -> Infoskripte könnten über den FeatureInfo aufgerufen werden über Maptip oder Weiterleitung an andere Skripte
  - Nutzung fehlt noch in Norbit-Lösung: Prostprocessing von Frank Jäger könnte übernommen werden
-  - siehe https://trac.wheregroup.com/PostNAS/browser/trunk/import/nutzungsart_definition.sql
-  - https://trac.wheregroup.com/PostNAS/browser/trunk/import/nutzungsart_metadaten.sql
-  - siehe https://trac.wheregroup.com/PostNAS/browser/trunk/import/nutzungsart_laden.sql
+  - siehe [https://trac.wheregroup.com/PostNAS/browser/trunk/import/nutzungsart_definition.sql](https://trac.wheregroup.com/PostNAS/browser/trunk/import/nutzungsart_definition.sql)
+  - [https://trac.wheregroup.com/PostNAS/browser/trunk/import/nutzungsart_metadaten.sql](https://trac.wheregroup.com/PostNAS/browser/trunk/import/nutzungsart_metadaten.sql)
+  - siehe [https://trac.wheregroup.com/PostNAS/browser/trunk/import/nutzungsart_laden.sql](https://trac.wheregroup.com/PostNAS/browser/trunk/import/nutzungsart_laden.sql)
  - Priorisierung: zuerste WebGIS (QGIS Server, MapServer) dann Desktop
  - bei Entwicklung beachten, dass es Anwender gibt, die nur lokal arbeiten und eine Auskunft benötigen
  - **Todo NorBIT**
@@ -61,7 +60,7 @@
  - Wenn Flurstücke nicht mehr vorliegen, wird auf den Bereich gezoomt, in dem das Flurstück wahrscheinlich einmal vorlag
  - Integration in das derzeitige QGIS Plugin wäre möglich
  - (Norbit Lösung verfügt bereits über einfache Suche)
- - **Todo Kreis Unna** Das neue Plugin wird im QGIS Plugin Repository referenziert https://plugins.qgis.org
+ - **Todo Kreis Unna** Das neue Plugin wird im QGIS Plugin Repository referenziert [https://plugins.qgis.org](https://plugins.qgis.org)
 
 
 #### NBA - Transaction 
@@ -87,7 +86,7 @@
 ### ALKIS Kreisbögen 
  - GDAL kann nun Kreisbögen
  - Parameter angeben CONVERT_TO_LINEAR (Starting with GDAL 2.0, CONVERT_TO_LINEAR can be used to to convert non-linear geometries types into linear geometries by approximating them. can be used to to convert non-linear geometries types into linear geometries by approximating them.)
- - http://gdal.org/ogr2ogr.html
+ - [http://gdal.org/ogr2ogr.html](http://gdal.org/ogr2ogr.html)
  - Information: für PostNAS wird nicht mehr der GDAL trunk benötigt, GDAL 1.11 kann verwendet werden
 
 

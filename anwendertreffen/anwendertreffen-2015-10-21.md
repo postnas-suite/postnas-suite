@@ -2,7 +2,7 @@
 
 
 - Termin: 21.10.2015 Kreishaus Unna
-- Einladungsmail: https://lists.osgeo.org/pipermail/nas/2015-June/000788.html
+- Einladungsmail: [https://lists.osgeo.org/pipermail/nas/2015-June/000788.html](https://lists.osgeo.org/pipermail/nas/2015-June/000788.html)
 - 16 TeilnehmerInnen
 
 ### Themen  
@@ -120,7 +120,7 @@
  - ggf. Vacuum analyze nach dem Datenimport und vor dem Postprocessing durchführen
  - ggf. mehrere Kerne verwenden 
  - mehrere Transaktionen parallel anstoßen, d.h. beim Postprocession mit mehreren Transaktionen arbeiten
- - Anpassung PostgreSQL work_mem http://www.postgresql.org/docs/9.4/static/runtime-config-resource.html
+ - Anpassung PostgreSQL work_mem [http://www.postgresql.org/docs/9.4/static/runtime-config-resource.html](http://www.postgresql.org/docs/9.4/static/runtime-config-resource.html)
  - ggf. Abfrage mit ANY anpassen
  - ggf. einzelne Kreise jeweils in ein DB-Schema importieren
  - kurzfristig sollte eine Verbesserung erreicht werden

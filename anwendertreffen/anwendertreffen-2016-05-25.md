@@ -1,7 +1,7 @@
 ## PostNAS-Suite Anwendertreffen am 25.5.2016 in Unna
 
 - Termin: 25.05.2016 Kreishaus Unna
-- Einladungsmail: http://lists.osgeo.org/pipermail/nas/2016-April/000833.html
+- Einladungsmail: [http://lists.osgeo.org/pipermail/nas/2016-April/000833.html](http://lists.osgeo.org/pipermail/nas/2016-April/000833.html)
 - 17 TeilnehmerInnen
 
 
@@ -20,7 +20,7 @@
 #### PostNAS Suite Schaubild 
 
 - Schaubild Jäger und norBIT 
-- Folien: http://trac.wheregroup.com/PostNAS/browser/trunk/anwendertreffen/PostNAS_Anwendertreffen20160525.pdf?order=name
+- Folien: [http://trac.wheregroup.com/PostNAS/browser/trunk/anwendertreffen/PostNAS_Anwendertreffen20160525.pdf?order=name](http://trac.wheregroup.com/PostNAS/browser/trunk/anwendertreffen/PostNAS_Anwendertreffen20160525.pdf?order=name)
 
 Komponenten:
 - PostGIS Datenbank und Postprozessing nach der Dateneingabe 
@@ -42,7 +42,7 @@ Komponenten:
 Problem: 
 - Verarbeitungszeit mit Nachbearbeitung dauert lange
 - Postprozessing müsste optimiert werden für Zeitersparnis 
-- neues Feedback in der Mailingliste Thema: '''[PostNAS Suite] PostgreSQL-Tuning''' siehe https://lists.osgeo.org/pipermail/nas/2016-June/000873.html
+- neues Feedback in der Mailingliste Thema: '''[PostNAS Suite] PostgreSQL-Tuning''' siehe [https://lists.osgeo.org/pipermail/nas/2016-June/000873.html](https://lists.osgeo.org/pipermail/nas/2016-June/000873.html)
 
 Lösung: 
 - Konfiguration in der postgres.conf 
@@ -162,7 +162,7 @@ WMS auf Grundlage der Rasterdaten (Kreis Unna):
 - schrittweise Gemeindeeinführung
 - DGK wird in den Bereichen nicht weitergeführt
 - Zwischenlösung da Darstellung sehr eingeschränkt ist
-- Anwendung GeoService .online Kreis Unna (http://www.geoservice.kreis-unna.de/)
+- Anwendung GeoService .online Kreis Unna ([http://www.geoservice.kreis-unna.de/](http://www.geoservice.kreis-unna.de/))
 
 Andere Lösung: 
 - David WMS bei Münster 
@@ -293,7 +293,7 @@ FOSSGIS 2016 Salzburg
 - 1.Tag 04.07.16
 - 18:30-19:00 Uhr
 - Grüner HS
-- http://frab.fossgis-konferenz.de/de/2016/public/events/5026 
+- [http://frab.fossgis-konferenz.de/de/2016/public/events/5026 ](http://frab.fossgis-konferenz.de/de/2016/public/events/5026 )
 
  
 übernächstes Treffen:

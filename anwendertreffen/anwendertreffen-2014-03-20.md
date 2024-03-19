@@ -3,7 +3,7 @@
 
 - Moderation: Astrid Emde
 - Teilnehmer +-30 Personen
-- FOSSGIS 2014 Programm: http://www.fossgis.de/konferenz/2014/programm/track/Anwendertreffen/758.de.html
+- FOSSGIS 2014 Programm: [http://www.fossgis.de/konferenz/2014/programm/track/Anwendertreffen/758.de.html](http://www.fossgis.de/konferenz/2014/programm/track/Anwendertreffen/758.de.html) 
 
 Am 20.03.2014 fand im Rahmen der FOSSGIS 2014 das PostNAS Anwendertreffen statt. Nach dem Vortragsprogramm trafen sich etwa 50 Anwender und Interessierte, um sich über Ihre Erfahrungen auszutauschen.
 
@@ -19,7 +19,7 @@ Die Firma NorBIT stellte auf dem Treffen ihre aktuellen Entwicklungen vor. So wu
 
 NoBIT möchte diese Lösungen nach der Refinanzierung der Entwicklungen Open Source stellen und sucht noch Investoren. 
 
-- Präsentation siehe http://www.fossgis.de/w/images/6/69/Intergeo_2013_ALKIS_norBIT_GmbH.pdf
+- Präsentation siehe [http://www.fossgis.de/w/images/6/69/Intergeo_2013_ALKIS_norBIT_GmbH.pdf](http://www.fossgis.de/w/images/6/69/Intergeo_2013_ALKIS_norBIT_GmbH.pdf)
 
 
 ### kvwmap als APK light 
@@ -38,16 +38,16 @@ Informationen zur Umsetzung mit Mapbender3 finden sich im PostNAs Wiki unter:
 ### Sammlung von ALKIS Demodaten
 Es kam der Wunsch auf, eine Übersicht der ALKIS Demodaten der Bundesländer zu erstellen. Andreas Borgardt war so freundlich, nach Demodaten zu recherchieren, so dass die Sammlung bereits im PostNAS-Wiki vorliegt. Sofern jemand über weitere Demodaten verfügt, die verlinkt werden könnten, können diese gerne in der Liste ergänzt werden. Eine Mail an die Mailingliste reicht aus.
 
-http://trac.wheregroup.com/PostNAS/wiki/ALKISTestdaten
+[http://trac.wheregroup.com/PostNAS/wiki/ALKISTestdaten](http://trac.wheregroup.com/PostNAS/wiki/ALKISTestdaten)
 
 
 ### PostNAS Community
 
-Auch im nächsten Jahr soll es auf der FOSSGIS 2015 in Münster (demnächst unter http://fossgis.de/konferenz/2015/) ein PostNAS Anwendertreffen geben. Reservieren Sie sich den Termin schon im Kalender!
+Auch im nächsten Jahr soll es auf der FOSSGIS 2015 in Münster (demnächst unter [http://fossgis.de/konferenz/2015/](http://fossgis.de/konferenz/2015/)) ein PostNAS Anwendertreffen geben. Reservieren Sie sich den Termin schon im Kalender!
 
 Wenn Sie nehr über PostNAS erfahren möchten oder sich zum Thema austauschen möchten, können Sie sich gerne in die Mailingliste eintragen. 
 
-http://lists.osgeo.org/mailman/listinfo/nas
+[http://lists.osgeo.org/mailman/listinfo/nas](http://lists.osgeo.org/mailman/listinfo/nas)
 
 
 
