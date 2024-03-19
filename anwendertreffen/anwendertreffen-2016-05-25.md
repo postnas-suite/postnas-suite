@@ -293,7 +293,7 @@ FOSSGIS 2016 Salzburg
 - 1.Tag 04.07.16
 - 18:30-19:00 Uhr
 - Grüner HS
-- [http://frab.fossgis-konferenz.de/de/2016/public/events/5026 ](http://frab.fossgis-konferenz.de/de/2016/public/events/5026 )
+- [https://fossgis-konferenz.de/2016/programm/event5026.html](https://fossgis-konferenz.de/2016/programm/event5026.html)
 
  
 übernächstes Treffen:

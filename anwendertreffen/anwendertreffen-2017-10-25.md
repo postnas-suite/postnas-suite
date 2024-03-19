@@ -4,7 +4,7 @@
 - Termin: Mittwoch 25. Oktober 2017 , 11 – 16 Uhr
 - Ort: Hohenzollernbad, Sitzungsraum Erdgeschoss E-12, Moltkestraße 45, 51643 Gummersbach
 - Moderation Marina Kühn
-- Einladungsmail: https://lists.osgeo.org/pipermail/nas/2017-May/000972.html
+- Einladungsmail: [https://lists.osgeo.org/pipermail/nas/2017-May/000972.html](https://lists.osgeo.org/pipermail/nas/2017-May/000972.html)
 - Teilnehmer/-Innen: 16 Personen
 
 ### Themen 
@@ -56,7 +56,7 @@ Demo-Dienste (demo.postnas.org):
 
 Dokumente: 
 - Daten liegen im Wiki unter
-- https://github.com/postnas-suite/postnas-suite-mapserver/blob/main/mapserver/alkis_n/alkis_punktnummernuebersicht.map
+- [https://github.com/postnas-suite/postnas-suite-mapserver/blob/main/mapserver/alkis_n/alkis_punktnummernuebersicht.map](https://github.com/postnas-suite/postnas-suite-mapserver/blob/main/mapserver/alkis_n/alkis_punktnummernuebersicht.map)
  
 Derzeitige Probleme: 
 - Angemerkt vom OBK: Alle Relationen nur in eine Richtung: ax_lagebezeichnungmithausnummer aus ax_gebaeude wird nicht angezeigt
@@ -158,7 +158,7 @@ Mapbender RIO:
 - Besonderes: 
  - Optimierte Feature Info-Dialoge
  - z.B. mit Sprung zu den Haltestellen und Fahrplanauskunft
- - piwik wurde als Monitoring Tool eingebunden und gibt Auskunft über Zugriffe (OpenSource https://piwik.org/)
+ - piwik wurde als Monitoring Tool eingebunden und gibt Auskunft über Zugriffe (OpenSource [https://piwik.org/](https://piwik.org/))
 
 
 ### 9) Modellartenerweiterung 

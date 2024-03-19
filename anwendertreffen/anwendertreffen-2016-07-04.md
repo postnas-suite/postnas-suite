@@ -2,7 +2,7 @@
 
 
 - Termin: 4.07.2016 18:30 Uhr FOSSGIS Konferenz Salzburg
-- [http://frab.fossgis-konferenz.de/de/2016/public/events/5026](http://frab.fossgis-konferenz.de/de/2016/public/events/5026)
+- [https://fossgis-konferenz.de/2016/programm/Programm_FOSSGIS-2016.pdf](https://fossgis-konferenz.de/2016/programm/Programm_FOSSGIS-2016.pdf)
 - Einladungsmail: [https://lists.osgeo.org/pipermail/nas/2016-May/000847.html](https://lists.osgeo.org/pipermail/nas/2016-May/000847.html)
 - +-20 TeilnehmerInnen
 
@@ -17,9 +17,9 @@ Auf der FOSSGIS gab es außerdem einen Vortrag über die PostNAS-Suite:
 ***Vortrag: PostNAS-Suite - Lösungen für den ALKIS Datenimport, die Darstellung, Informationsausgabe und Suche***
  - Mittwoch 6.7.2016 11:30 Uhr
  - Astrid Emde und Jelto Buurman
- - [http://frab.fossgis-konferenz.de/de/2016/public/events/5027](http://frab.fossgis-konferenz.de/de/2016/public/events/5027)
- - [Folien](http://frab.fossgis-konferenz.de/system/event_attachments/attachments/000/000/060/original/FOSSGIS_2016_PostNAS_AEmde_JBuurman.pdf?1467802471))
- - [Videoaufzeichnung](https://www.youtube.com/watch?v=hQGiUbHmCwA) [Videos](http://www.fossgis-konferenz.de/2016/videos/)
+ - [Videoaufzeichnung](https://www.youtube.com/watch?v=hQGiUbHmCwA)
+ - [Videos](https://www.fossgis-konferenz.de/2016/videos/)
+ 
 
 
 ### Themen 
@@ -30,7 +30,7 @@ Auf der FOSSGIS gab es außerdem einen Vortrag über die PostNAS-Suite:
 
 ###  Aufbau eines vollständiges Datenmodell für PostNAS 
 - Peter Korduan
-- [https://trac.wheregroup.com/PostNAS/export/371/trunk/anwendertreffen/Korduan_Projektstand_PostNAS-Erweiterung_2016-07-04.pdf Folien]
+- [Folien](https://trac.wheregroup.com/PostNAS/export/371/trunk/anwendertreffen/Korduan_Projektstand_PostNAS-Erweiterung_2016-07-04.pdf)
 
 Auf dem Anwendertreffen hat Peter Korduan, Geschäftsführer der Firma GDI-Service Rostock das Vorhaben zur Erweiterung des OGR Datenmodells vorgestellt.
 
@@ -51,7 +51,7 @@ Zum Zeitpunkt des Treffens war der Punkt 3 praktisch umgesetzt und Punkt 4 konze
 ### QGIS Plugin PostNAS-Suche  
 - Marvin Brandt
 - Neuigkeiten zu der QGIS-Erweiterung
-- [https://plugins.qgis.org/plugins/PostNAS_Search/ QGIS Plugin PostNAS Suchfunktionen]
+- [QGIS Plugin PostNAS Suchfunktionen](https://plugins.qgis.org/plugins/PostNAS_Search/)
 - eine Vorstellung des Suchmoduls mit Screenshots erfolgt in dem Vortrag PostNAS-Suite (Folien und Video siehe oben)
 
 #### Folgende Funktionen bietet unsere Erweiterung mittlerweile: 
@@ -85,12 +85,10 @@ Marvin Brandt und der Kreis Unna haben folgende Punkte noch für die nächsten W
 ----
 ### Performanz Postprozessing  
 - Dieses Thema wurde kurz angesprochen. Das Postprozessing nach dem Einspielen von NBa Dateien kann sehr lange dauern. Daher wird noch finanzielle Unterstützung gesucht, um das Thema anzugehen.
-- Diskussion zum Thema siehe Auch Protokoll vom [https://trac.wheregroup.com/PostNAS/wiki/PostNASAnwendertreffen2016-05-25 Treffen in Unna  25.5.2016] 
 
 
 ----
 ### Umsetzung der Amtlichen Basiskarte   
-- Diskussion zum Thema siehe Auch Protokoll vom [https://trac.wheregroup.com/PostNAS/wiki/PostNASAnwendertreffen2016-05-25 Treffen in Unna  25.5.2016] 
 - Aufgabe besteht scheinbar nur in NRW. Für die Anwesenden aus anderen Bundesländern war dieses Thema nicht bekannt bzw. steht nicht auf der Agenda.
 
 

@@ -2,7 +2,7 @@
 
 - Moderation Andreas Borgardt
 - Anmeldung über: Mail an andreas.borgardt at geo.bremen.de
-- Einladungsmail: https://lists.fossgis.de/pipermail/fossgis-talk-liste/2018-September/009517.html
+- Einladungsmail: [https://lists.fossgis.de/pipermail/fossgis-talk-liste/2018-September/009517.html](https://lists.fossgis.de/pipermail/fossgis-talk-liste/2018-September/009517.html)
 - Teilnehmer/-Innen: 19 Personen
 
 ### Themen
@@ -157,7 +157,7 @@ Protokoll Treffen Gummersbach 25.10.2017
 
 
 Vorstellung der Anwendung Bauluecken
-- https://www.bauluecken.bremen.de
+- [https://www.bauluecken.bremen.de](https://www.bauluecken.bremen.de)
 - Basiskarte wird mit PostNAS via QGIS Server gerendert und in MapProxy gecached. Aktualisierung über PostNAS Import.
 - Komplexe Straßenführung im Bereich Eduard-Schopf-Allee
 
@@ -194,7 +194,7 @@ PostNAS als WMS
 - In Infoabfrage werden zusätzlich die GeoKos-Infos angezeigt
  - ggf. Georeferenzierung über fwd und Aktualisierung der Informix-Daten
  - FDW PostgreSQL ermöglicht den lesenden und teilweise schreibenden Zugriff 
- - https://wiki.postgresql.org/wiki/Foreign_data_wrappers
+ - [https://wiki.postgresql.org/wiki/Foreign_data_wrappers](https://wiki.postgresql.org/wiki/Foreign_data_wrappers)
  - liegt vor für z.B. Oracle, Ms SQL, ODBC, ogr
 
 #### TOP5:    Clipping von ALKIS-Daten Stadt Münster
@@ -235,10 +235,10 @@ Vor der Diskussion Quo Vadis PostNAS lud Andreas Borgardt alle TeilnehmerInnen z
 Hier wies Andreas Borgardt auf die aus den Medien bekannte einsturzgefährdete Stephanibruecke hin: 
 
 (siehe auch Beitrag Extra3)
-https://www.ndr.de/fernsehen/sendungen/extra_3/Realer-Irrsinn-Sperrmassnahmen-auf-der-Stephanibruecke,extra13240.html
+[https://www.ndr.de/fernsehen/sendungen/extra_3/Realer-Irrsinn-Sperrmassnahmen-auf-der-Stephanibruecke,extra13240.html](https://www.ndr.de/fernsehen/sendungen/extra_3/Realer-Irrsinn-Sperrmassnahmen-auf-der-Stephanibruecke,extra13240.html)
 
 Kurzer Exkurs nach Lemgo (auch in Lemgo ist das Leben durch den Geysir in der Fußgängerzone gefährlich geworden)
-https://www.ndr.de/fernsehen/sendungen/extra_3/Realer-Irrsinn-Der-Geysir-von-Bad-Salzuflen-,extra10166.html 
+[https://www.ndr.de/fernsehen/sendungen/extra_3/Realer-Irrsinn-Der-Geysir-von-Bad-Salzuflen-,extra10166.html ](https://www.ndr.de/fernsehen/sendungen/extra_3/Realer-Irrsinn-Der-Geysir-von-Bad-Salzuflen-,extra10166.html )
 
 Danach gab es eine rege Diskussion zum Stand der PostNAS-Suite. Wo steht das Projekt? Ist es abgeschlossen? 
 Was sind die nächsten Herausforderungen?

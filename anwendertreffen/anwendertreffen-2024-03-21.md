@@ -2,7 +2,7 @@
 
 
 - Termin: Donnerstag 21.3.2024 FOSSGIS 2024 Hamburg
-- Ankündigung: https://pretalx.com/fossgis2024/talk/TSJM9V/
+- Ankündigung: [https://pretalx.com/fossgis2024/talk/TSJM9V/](https://pretalx.com/fossgis2024/talk/TSJM9V/)
 - Einladungsmail:
 - Teilnehmer/-Innen: +- xx Personen
 

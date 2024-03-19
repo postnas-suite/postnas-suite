@@ -2,7 +2,7 @@
 
 - Termin: 03.05.2017 10 Uhr Stadthaus Münster
 - Moderation Norbert Dephoff, Johannes Brauner
-- Einladungsmail: https://lists.osgeo.org/pipermail/nas/2017-March/000962.html
+- Einladungsmail: [https://lists.osgeo.org/pipermail/nas/2017-March/000962.html](https://lists.osgeo.org/pipermail/nas/2017-March/000962.html)
 - Teilnehmer/-Innen: 22 Personen
 
 ### Themen
@@ -59,7 +59,7 @@ Aktuelle Notizen:
 - parallele Prozesse bringen sehr viel für die Performanz
 
 Views Eigentümerabfrage
-- siehe Mail 21.3.https://lists.osgeo.org/pipermail/nas/2017-March/000963.html
+- siehe Mail 21.3.  [https://lists.osgeo.org/pipermail/nas/2017-March/000963.html](https://lists.osgeo.org/pipermail/nas/2017-March/000963.html)
 - sehr verschachtelte Abfrage
 - Untererbbaurecht - Fälle eher in der Theorie. Taucht bei keinem der Nutzer auf
 
@@ -89,7 +89,7 @@ Frage Richtung Buchauskunft:
 - Es liegen 2 WFS für  ALKIS vor
   - ein WFS ist recht einfach, 1 WFS ist recht komplex
   - der einfache WFS lässt sich problemlos und in QGIS laden (gute Performanz, wenn in QGIS geladen)
-- der komplexer WFS lässt sich mit Plugin von Jürgen Weichand laden http://www.weichand.de/2012/05/29/wfs-2-0-client-plugin-fur-qgis/
+- der komplexer WFS lässt sich mit Plugin von Jürgen Weichand laden [http://www.weichand.de/2012/05/29/wfs-2-0-client-plugin-fur-qgis/](http://www.weichand.de/2012/05/29/wfs-2-0-client-plugin-fur-qgis/)
 
 
 #### Symbole in QGIS/AutoCAD/MAP-File
@@ -118,7 +118,7 @@ Frage Richtung Buchauskunft:
 - Rückfrage zu Erfahrungen mit PostgreSQL 9.6? Bisher liegen keine Erfahrungen
 - ogr2ogr Schalter  -ds_transaction sollte gesetzt werden
   - wurde von Herrn Fischer in GDAL eingebaut
-  - wurde von Oliver Tonhofer angemerkt  siehe Mail Geometrietyp für Linien-Tabellen (12.01.2017)  https://lists.osgeo.org/pipermail/nas/2017-January/000954.html
+  - wurde von Oliver Tonhofer angemerkt  siehe Mail Geometrietyp für Linien-Tabellen (12.01.2017)  [https://lists.osgeo.org/pipermail/nas/2017-January/000954.html](https://lists.osgeo.org/pipermail/nas/2017-January/000954.html)
     
 ogr2ogr:
 
@@ -148,27 +148,27 @@ ogr2ogr:
 - Dokumentation siehe ![Mapbender3](../postnas-suite-mapbender.md)
 - Rückmeldung Frau Emde: es liegen keine neuen Entwicklungen zur Absicherung vor. Lösung über Absicherung durch die Session ist angedacht.
 - Anmerkung Herr Schepers, Herr Kock: Lösung über LDAP wäre gewünscht, damit auch in QGIS WMS gesichert geladen werden kann
-- Frage zur gesicherten Infoabfrage in Mapbender3: https://lists.osgeo.org/pipermail/nas/2017-April/000971.html
+- Frage zur gesicherten Infoabfrage in Mapbender3: [https://lists.osgeo.org/pipermail/nas/2017-April/000971.html](https://lists.osgeo.org/pipermail/nas/2017-April/000971.html)
 - ToDo Frau Emde: Lösung oder Abschätzung bis zum nächsten treffen. Herr Baschetti bietet unterstützung an.
 
 #### Modellartenerweiterung
 ##### Punktauskunft
 Die ALKIS Daten enthalten diverse Vermessungspunkte. Diese werden bisher noch nicht dargestellt. Die Auskunft über die Genauigkeit und Herkunft der Punkte ist aber für verschiedene Bereiche von Interesse.
 Marina Kühn vom Oberbergischen Kreis stellt eine Lösung zur Darstellung der Vermessungspunkte vor.
-Das Datenmodell wurde um verschiedene Tabellen/Spalten erweitert (ax_punktortag, ax_punktortau, ax_punktortta, ax_besonderergebaeudepunkt, ax_aufnahmepunkt, ax_sicherungspunkt, ax_sonstigervermessungspunkt, ax_besonderertopographischerpunkt, ax_grenzpunkt) – siehe http://trac.wheregroup.com/PostNAS/browser/trunk/import/punktnummernuebersicht
+Das Datenmodell wurde um verschiedene Tabellen/Spalten erweitert (ax_punktortag, ax_punktortau, ax_punktortta, ax_besonderergebaeudepunkt, ax_aufnahmepunkt, ax_sicherungspunkt, ax_sonstigervermessungspunkt, ax_besonderertopographischerpunkt, ax_grenzpunkt) – siehe [http://trac.wheregroup.com/PostNAS/browser/trunk/import/punktnummernuebersicht](http://trac.wheregroup.com/PostNAS/browser/trunk/import/punktnummernuebersicht)
 Anschließend sollten  auch dies Tabelle beim Import von NAS Daten gefüllt werden.
 Die Daten enthalten u.a. die Punktkennung, Informationen zur Genauigkeit der Daten, Vermessungsart sowie relative Höhe.
 Durch ein Postprocessing werden die Daten in die Tabelle pp_punktnummernuebersicht überführt, die anschließend für die Darstellung und Beauskunftung verwendet wird.
 Es wurde außerdem eine MapServer Mapdatei zur Darstellung und Beauskunftung der Punkte erstellt. Diese Darstellung wurde beim Treffen vorgestellt und bekam eine positive Rückmeldung.
 Die SQLs und MapServer Dateien finden sich nun im svn. In Kürze werden die Daten auch in der PostNAS-Demo dargestellt.
-- MapServer https://github.com/postnas-suite/postnas-suite-mapserver/tree/main/mapserver
-- PostgreSQL http://trac.wheregroup.com/PostNAS/browser/trunk/import/punktnummernuebersicht
+- MapServer [https://github.com/postnas-suite/postnas-suite-mapserver/tree/main/mapserver](https://github.com/postnas-suite/postnas-suite-mapserver/tree/main/mapserver)  
+- PostgreSQL [http://trac.wheregroup.com/PostNAS/browser/trunk/import/punktnummernuebersicht](http://trac.wheregroup.com/PostNAS/browser/trunk/import/punktnummernuebersicht)  
 - Anfrage: Das allgemeine Datenschema sollte um die fehlenden Spalten erweitert werden, so dass der Import dieser Spalten bei allen Anwendern erfolgt.
 - Workflow: sofern fehlende Spalten auffallen, sollte eine Mail an die Mailingliste geschickt und an Herrn Fischer weitergeleitet werden. Herr Fischer kann dann das Datenmodell erweitern.
 
 #### Bodenschätzung
-- siehe Mail Mailingliste 20.9.2016 Bodenschätzung - Schema und Ableitung  https://lists.osgeo.org/pipermail/nas/2016-September/000932.html
-- Bodenschätzung - Schema und Ableitung https://lists.osgeo.org/pipermail/nas/2017-April/000970.html
+- siehe Mail Mailingliste 20.9.2016 Bodenschätzung - Schema und Ableitung  [https://lists.osgeo.org/pipermail/nas/2016-September/000932.html](https://lists.osgeo.org/pipermail/nas/2016-September/000932.html)   
+- Bodenschätzung - Schema und Ableitung [https://lists.osgeo.org/pipermail/nas/2017-April/000970.html](https://lists.osgeo.org/pipermail/nas/2017-April/000970.html)   
 - Linienbegleitende Signaturen mit Bodenzahlen. Ziel: Visualisierung und Auskunft. Visualisierung siehe GeoInfo
 - Stadt Münster hat die Darstellung derzeit aus dem IBR Dienst herausgezogen - nicht über PostNAS
 - ToDO Herr Jäger schaut sich das einmal an über prüft den Layer
@@ -177,7 +177,7 @@ Die SQLs und MapServer Dateien finden sich nun im svn. In Kürze werden die Date
 #### Verschiedenes
 - Einladung zum Geonetzwerk Münsterland GeoTag nach Münster
 - Mittwoch 17.5. in Münster
-- http://www.geonetzwerk-muensterland.de/
+- [http://www.geonetzwerk-muensterland.de/](http://www.geonetzwerk-muensterland.de/)
 
 Nächstes Treffen
 - Marina Frau Kühn und Jutta Frau Lusebrink laden zum nächsten PostNAS Anwendertreffen nach Gummersbach im Kreishaus des Oberbergischen Kreises ein.

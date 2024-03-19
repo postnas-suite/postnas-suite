@@ -3,7 +3,7 @@
 
 - Termin: 07.12.2016 10 Uhr Stadthaus Münster
 - Moderation Norbert Dephoff
-- Einladungsmail: https://lists.osgeo.org/pipermail/nas/2016-October/000935.html
+- Einladungsmail: [https://lists.osgeo.org/pipermail/nas/2016-October/000935.html](https://lists.osgeo.org/pipermail/nas/2016-October/000935.html) 
 - Teilnehmer/-Innen: 20 
 
 ### Themen aus letzter Sitzung 
@@ -54,14 +54,14 @@ Peter Korduan:
 
 Projekt zur Erweiterung des PostNAS ALKIS-Schemas um alle Elemente des ALKIS Modells (Peter Kordulan)
 
-- aktueller Stand 2016-12-29: https://gdi-service.de/xmi2db/sql/schema_aaa_ogr_2016-12-29.sql
-- Skript https://github.com/pkorduan/xmi2db/blob/master/converter/rename_nas.rb
+- aktueller Stand 2016-12-29: [https://gdi-service.de/xmi2db/sql/schema_aaa_ogr_2016-12-29.sql](https://gdi-service.de/xmi2db/sql/schema_aaa_ogr_2016-12-29.sql)
+- Skript [https://github.com/pkorduan/xmi2db/blob/master/converter/rename_nas.rb](https://github.com/pkorduan/xmi2db/blob/master/converter/rename_nas.rb)
  - Zum Einlesen in das Modell müssen Tags in den NAS-Dateien vorher umbenannt werden
- - Umbenennungen: http://gdi-service.de/xmi2db/listings/umbenennungsliste.php
+ - Umbenennungen: [http://gdi-service.de/xmi2db/listings/umbenennungsliste.php](http://gdi-service.de/xmi2db/listings/umbenennungsliste.php) 
 - Themen: Änderungen, Filtern und Kompromisse
 
 - Auf dem PostNAS Anwendertreffen auf der FOSSGIS 2016-07-04 stellte Peter Korduan, Geschäftsführer der Firma GDI-Service Rostock, das Vorhaben zur Erweiterung des OGR Datenmodells vor.
- - [http://trac.wheregroup.com/PostNAS/export/371/trunk/anwendertreffen/Korduan_Projektstand_PostNAS-Erweiterung_2016-07-04.pdf Folien]
+ - [Folien](http://trac.wheregroup.com/PostNAS/export/371/trunk/anwendertreffen/Korduan_Projektstand_PostNAS-Erweiterung_2016-07-04.pdf)
  - siehe auch Protokoll vom Anwendertreffen der FOSSGIS in Salzburg ![PostNASAnwendertreffen 2016-07-04](./anwendertreffen-2016-07-04.md)
  -  [[wiki:PostNASAnwendertreffen2016-07-04]]
 
@@ -105,18 +105,18 @@ Wenn die Kreise sich nicht absprechen, kann es bei Änderungen an Flurstücken a
 - **Todo norBIT: Plugin müsste erweitert werden, Herr Fischer signalisiert Bereitschaft**
 
 - Die Erweiterung der KOM OK (Kommunale Symbole) ist in Münster jetzt verfügbar.
- - http://www.bezreg-koeln.nrw.de/brk_internet/geobasis/liegenschaftskataster/alkis/vorgaben/index.html
+ - [http://www.bezreg-koeln.nrw.de/brk_internet/geobasis/liegenschaftskataster/alkis/vorgaben/index.html](http://www.bezreg-koeln.nrw.de/brk_internet/geobasis/liegenschaftskataster/alkis/vorgaben/index.html)
  - Es wurde der Wunsch geäußert, dass Böschungen aus ALKIS dargestellt werden.
 - Die Priorisierung der Layer ist bei der Darstellung von ALKIS nicht immer korrekt (z.B. von Verkehrswegen oder Industrieflächen)
  - Herr Fischer:  Objekte haben eine Darstellungspriorität. Durch die Layerstruktur, kann es vorkommen, dass Symbole verdeckt werden, die eigentlich eine höhere Darstellungspriorität hätten.
 
 #### Anmerkungen:
 - Stadtplanwerk 2.0 Ruhrgebiet kommt (auf der Basis von ALKIS/ABK- und OSM-Daten)
- - https://geonetzwerk.metropoleruhr.de/de/aktuelles/stadtplanwerk-2-0
+ - [https://geonetzwerk.metropoleruhr.de/de/aktuelles/stadtplanwerk-2-0](https://geonetzwerk.metropoleruhr.de/de/aktuelles/stadtplanwerk-2-0)
 - Open Data 
  - Hamburg: Kostenloser Download von ALKIS-Daten möglich
  - In Rheinland-Pfalz in Bearbeitung
- - NRW ab 1.1.2017  https://open.nrw/de/dat_kat
+ - NRW ab 1.1.2017  [https://open.nrw/de/dat_kat](https://open.nrw/de/dat_kat)
 
 ### Symbole in QGIS/AutoCAD/MAP-File 
 - Symbole sollen in AutoCAD halb so klein dargestellt werden wie in QGIS
@@ -139,7 +139,7 @@ Wenn die Kreise sich nicht absprechen, kann es bei Änderungen an Flurstücken a
 - Bremer Erfahrung: OGR ist langsamer geworden
 - schnellere Umsetzung und paralleler Import, insbesondere Interesse beim Land RLP und Kommunaler Dienstleister, die große Daten importieren müssen.
 - Vorschlag Frau Emde: Zum Testen der Geschwindigkeit, Auslastung in Postgresql 9.6 pg_sta_statement-Extention verwenden! Es kann z.B. eingesehen werden, welche SQLs wielange benötigen
- - https://www.postgresql.org/docs/9.6/static/pgstatstatements.html
+ - [https://www.postgresql.org/docs/9.6/static/pgstatstatements.html](https://www.postgresql.org/docs/9.6/static/pgstatstatements.html)
 
 ### Thema Kreisbögen 
 -  GDAL 2.x unterstützt Kreisbögen. Der Konverter kann sie auslesen. PostgreSQL hat damit Probleme, diese korrekt umzusetzen.
