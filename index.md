@@ -8,7 +8,7 @@ Melden Sie sich gerne an der [PostNAS-Suite Mailingliste](https://lists.osgeo.or
 ```
 Das nächstes PostNAS-Suite Anwendertreffen
 findet am 21.03, 16:45–17:45 Uhr auf der FOSSGIS 2024 in Hamburg statt (Onlineteilnahme ist möglich).
-[https://pretalx.com/fossgis2024/talk/TSJM9V/](https://pretalx.com/fossgis2024/talk/TSJM9V/)
+https://pretalx.com/fossgis2024/talk/TSJM9V/
 ```
 
 
