@@ -89,6 +89,7 @@ Es wurde von den Anwesenden nicht als notwendig erachtet, wieder die Domain post
 Oliver Schmidt sprach an, dass er über einige hilfreiche SQLs (Abstandsberechnungen) und auch Mapdateien (z.B. zu Wasserrecht) verfügt, die auch für andere interessant sein könnten.
 
 Für die SQLs soll ein eigenes Repository erstellt werden. Dies erfolgt in Abstimmung mit Astrid Emde und wird über die Mailingliste kommuniziert.
+- [https://github.com/postnas-suite/postnas-suite/issues/4](https://github.com/postnas-suite/postnas-suite/issues/4)
 
 Die Mapdateien sollen in das bereits vorliegende Repository eingebunden werden.
 - [https://github.com/postnas-suite/postnas-suite-mapserver](https://github.com/postnas-suite/postnas-suite-mapserver)
