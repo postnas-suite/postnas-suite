@@ -41,9 +41,7 @@ Testdaten gibt es u.a. hier [http://trac.wheregroup.com/PostNAS/wiki/ALKISTestda
 -Auch hier läuft gerade die Umstellung.
 
 
-#####Wer nutzt die Auskunftsskripte produktiv?
-
-
+##### Wer nutzt die Auskunftsskripte produktiv?
 - Stadt Minden (Thomas Schüttenberg)
 - ITEBO GmbH (Martina Weyand)
 - Stadt Münster (Uwe Kock)
@@ -52,6 +50,7 @@ Testdaten gibt es u.a. hier [http://trac.wheregroup.com/PostNAS/wiki/ALKISTestda
 SQL-Fehler treten in den Auskunftsskripten auf bei den Themen:
 - Nutzungsarten
 - Bodenschätzung
+
 - Die Tabelle alkis-elemente fehlt, ebenso ax_kulturart_bodenschaetzung
 - Fehler gibt es auch zu den Angaben Gebäude: 'FEHLER: Spalte g.objekthoehe existiert nicht'
 
