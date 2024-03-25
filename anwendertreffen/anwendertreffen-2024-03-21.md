@@ -96,5 +96,4 @@ Wann soll das nächste Treffen stattfinden? Die Einladung nach Münster steht no
 
 [https://postnas-suite.github.io/postnas-suite/postnas-suite-anwendertreffen.html](https://postnas-suite.github.io/postnas-suite/postnas-suite-anwendertreffen.html)
 
-Link zu r GFossgis
 
