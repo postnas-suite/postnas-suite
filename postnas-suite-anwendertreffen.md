@@ -2,8 +2,7 @@
 
 ```
 Das nächstes PostNAS-Suite Anwendertreffen
-findet am 21.03, 16:45–17:45 Uhr auf der FOSSGIS 2024 in Hamburg statt (Onlineteilnahme ist möglich).
-https://pretalx.com/fossgis2024/talk/TSJM9V/
+findet ggf. in Münster statt
 ```
 
 Seit 2012 finden die PostNAS-Suite Anwendertreffen statt. Sie finden in der Regel während der FOSSGIS-Konferenz im Frühjahr und manchmal noch zusätzlich im Herbst statt.
