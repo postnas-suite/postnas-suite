@@ -27,12 +27,11 @@ Nach einer kleinen Vorstellungsrunde der Personen vor Ort, diskutierten wir die 
 #### Darstellung und Information zu historischen Daten
 Es wurde der Wunsch geäußert auch historische Daten darzustellen und Informationen abfragbar zu machen. Hier stand die Anzeige in QGIS im Vordergrund. Denkbar wäre ein Zeitschieber, über den der gewünschte Zeitpunkt ausgewählt werden könnte. Bei der Umsetzung wäre die konforme Darstellung nicht relevant.
 
-Es wurde diskutiert inwieweit die Umsetzung in das bestehende QGIS ALKIS Plugin einfließen könnte. Jürgen Fischer zeigte sich offen für das Einfließen in das bestehende QGIS ALKIS Plugin. Die Informationen könnten aus den Gebäuden und Flurstücken über die Angaben unter beginnt und endet entnommen werden.
+Es wurde diskutiert inwieweit die Umsetzung in das bestehende QGIS ALKIS Plugin einfließen könnte.  [Jürgen Fischer (@jef-n)](https://github.com/jef-n) zeigte sich offen für das Einfließen in das bestehende QGIS ALKIS Plugin. Die Informationen könnten aus den Gebäuden und Flurstücken über die Angaben unter beginnt und endet entnommen werden.
 
-Der anwesende Vertreter der Stadt Jena steht mit Jürgen Fischer bereits in Kontakt und wird an einer Lösung arbeiten.
+[Daniel Cebulla (@danceb)](https://github.com/danceb) von der Stadt Jena steht mit Jürgen Fischer bereits in Kontakt und wird an einer Lösung arbeiten.
 
-Es wurde ein Ticket für diese Aufgabe erstellt:
-[https://github.com/postnas-suite/postnas-suite/issues/1](https://github.com/postnas-suite/postnas-suite/issues/1)
+Es wurde das [Ticket #1](https://github.com/postnas-suite/postnas-suite/issues/1) für diese Aufgabe erstellt.
 
 
 #### Erstausstattung
@@ -55,23 +54,17 @@ Im PostNAS-Suite-Projekt liegen Skripte zur Auskunft vor. Diese sind beschrieben
 
 - [https://postnas-suite.github.io/postnas-suite/postnas-suite-buchauskunft.html](https://postnas-suite.github.io/postnas-suite/postnas-suite-buchauskunft.html)
 
-Es wurde der Wunsch geäußert, bestimmte Informationen, die die PHP-Skriipte ausgeben auch in QGIS bereitzustellen. Die bisherige QGIS-Auskunft bildet manche Fragestellungen derzeit nicht ab.
+Es wurde der Wunsch geäußert, bestimmte Informationen, die die PHP-Skripte ausgeben auch in QGIS bereitzustellen. Die bisherige QGIS-Auskunft bildet manche Fragestellungen derzeit nicht ab.
 
-Jürgen Fischer zeigte sich offen für das Einfließen in das bestehende QGIS ALKIS Plugin. Thomas Schüttenberg wird die Aufgabe übernehmen, die entsprechenden Fragestellungen und SQLs aus den Skripten herauszusuchen.
+Jürgen Fischer zeigte sich offen für das Einfließen in das bestehende QGIS ALKIS Plugin. [Thomas Schüttenberg (@tschuettenberg)](https://github.com/tschuettenberg) wird die Aufgabe übernehmen, die entsprechenden Fragestellungen und SQLs aus den Skripten herauszusuchen.
 
-Es wurde ein Ticket für diese Aufgabe erstellt:
-
-[https://github.com/postnas-suite/postnas-suite/issues/2](https://github.com/postnas-suite/postnas-suite/issues/2)
-
+Es wurde das [Ticket #2](https://github.com/postnas-suite/postnas-suite/issues/2) für diese Aufgabe erstellt:
 
 #### PHP-Auskunftskripte - korrekte Ausgabe von Informationen zu allen Eigentümervarianten
 
 Oliver Schmidt sprach an, dass bei ausgefallenen Eigentümervarianten (wie Teileigentum, Erbengemeinschaften), die Auskunft keine korrekten Ergebnisse liefert. Hier sollte nachgebessert werden.
 
-Es wurde ein Ticket für diese Aufgabe erstellt:
-
-[https://github.com/postnas-suite/postnas-suite/issues/3](https://github.com/postnas-suite/postnas-suite/issues/3)
-
+Es wurde das [Ticket #3](https://github.com/postnas-suite/postnas-suite/issues/3) für diese Aufgabe erstellt.
 
 #### Webseite
 
@@ -79,7 +72,7 @@ Es gibt eine neue PostNAS-Suite Webseite unter [https://postnas-suite.github.io/
 
 Die neuen Seiten werden auf GitHUb im Repository [https://github.com/postnas-suite/postnas-suite](https://github.com/postnas-suite/postnas-suite) erstellt. Und stehen dann direkt auf der Webseite bereit.
 
-Alle sind herzlich eingeladen zu der Seite beizutragen. Es wird ein Zugriff über den GitHub-Account benötigt. Der Zugriff kann gerne bei Astrid Emde astrid (dot) emde (at) wheregroup (dot) com angefragt werden.
+Alle sind herzlich eingeladen zu der Seite beizutragen. Es wird ein Zugriff über den GitHub-Account benötigt. Der Zugriff kann gerne bei [Astrid Emde (@astroidex)](http://github.com/astroidex) angefragt werden.
 
 Es wurde von den Anwesenden nicht als notwendig erachtet, wieder die Domain postnas.org zu aktivieren.
 
@@ -89,7 +82,7 @@ Es wurde von den Anwesenden nicht als notwendig erachtet, wieder die Domain post
 Oliver Schmidt sprach an, dass er über einige hilfreiche SQLs (Abstandsberechnungen) und auch Mapdateien (z.B. zu Wasserrecht) verfügt, die auch für andere interessant sein könnten.
 
 Für die SQLs soll ein eigenes Repository erstellt werden. Dies erfolgt in Abstimmung mit Astrid Emde und wird über die Mailingliste kommuniziert.
-- [https://github.com/postnas-suite/postnas-suite/issues/4](https://github.com/postnas-suite/postnas-suite/issues/4)
+- [Ticket #4](https://github.com/postnas-suite/postnas-suite/issues/4)
 
 Die Mapdateien sollen in das bereits vorliegende Repository eingebunden werden.
 - [https://github.com/postnas-suite/postnas-suite-mapserver](https://github.com/postnas-suite/postnas-suite-mapserver)
@@ -100,5 +93,3 @@ Die Mapdateien sollen in das bereits vorliegende Repository eingebunden werden.
 Wann soll das nächste Treffen stattfinden? Die Einladung nach Münster steht noch im Raum. Hier wird nachgefragt, ob im Laufe des Jahres ein Treffen stattfinden soll.
 
 [https://postnas-suite.github.io/postnas-suite/postnas-suite-anwendertreffen.html](https://postnas-suite.github.io/postnas-suite/postnas-suite-anwendertreffen.html)
-
-
