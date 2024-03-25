@@ -15,6 +15,8 @@ Nächstes Anwendertreffen
 
 Die Teilnahme an den Treffen ist offen.
 
+- [FOSSGIS 2024 Hamburg 21.03.2024](./anwendertreffen/anwendertreffen-2024-03-21.md)
+- [Online 15.12.2023](./anwendertreffen/anwendertreffen-2023-12-15.md)
 - [FOSSGIS 2023 Berlin Adlershof 15.3.2023](./anwendertreffen/anwendertreffen-2023-03-13.md)
 - [FOSSGIS 2019 Dresden 13.3.2019 18:30-19:30 Uhr](./anwendertreffen/anwendertreffen-2019-03-13.md) 
 - [Bremen Donnerstag, 25. Oktober 2018, 10.30 - 15.30 Uhr](./anwendertreffen/anwendertreffen-2018-10-25.md) 
