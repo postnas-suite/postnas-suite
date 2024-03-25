@@ -32,6 +32,7 @@ Es wurde diskutiert inwieweit die Umsetzung in das bestehende QGIS ALKIS Plugin 
 Der anwesende Vertreter der Stadt Jena steht mit Jürgen Fischer bereits in Kontakt und wird an einer Lösung arbeiten.
 
 Es wurde ein Ticket für diese Aufgabe erstellt:
+[https://github.com/postnas-suite/postnas-suite/issues/1](https://github.com/postnas-suite/postnas-suite/issues/1)
 
 
 #### Erstausstattung
@@ -60,6 +61,7 @@ Jürgen Fischer zeigte sich offen für das Einfließen in das bestehende QGIS AL
 
 Es wurde ein Ticket für diese Aufgabe erstellt:
 
+[https://github.com/postnas-suite/postnas-suite/issues/2](https://github.com/postnas-suite/postnas-suite/issues/2)
 
 
 #### PHP-Auskunftskripte - korrekte Ausgabe von Informationen zu allen Eigentümervarianten
@@ -67,6 +69,8 @@ Es wurde ein Ticket für diese Aufgabe erstellt:
 Oliver Schmidt sprach an, dass bei ausgefallenen Eigentümervarianten (wie Teileigentum, Erbengemeinschaften), die Auskunft keine korrekten Ergebnisse liefert. Hier sollte nachgebessert werden.
 
 Es wurde ein Ticket für diese Aufgabe erstellt:
+
+[https://github.com/postnas-suite/postnas-suite/issues/3](https://github.com/postnas-suite/postnas-suite/issues/3)
 
 
 #### Webseite
