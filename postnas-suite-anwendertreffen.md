@@ -7,8 +7,6 @@ findet ggf. in Münster statt
 
 Seit 2012 finden die PostNAS-Suite Anwendertreffen statt. Sie finden in der Regel während der FOSSGIS-Konferenz im Frühjahr und manchmal noch zusätzlich im Herbst statt.
 
-Nächstes Anwendertreffen
-- ggf. in Münster
 
 ### Archiv der Anwendertreffen
 
