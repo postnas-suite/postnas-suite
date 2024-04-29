@@ -2,12 +2,12 @@
 
 ## MapServer
 
-Im github sehen Dateien für eine Mapserver Anwendung zur Verfügung:
+Im github stehen Dateien für MapServer OGC WMS Dienste zur Verfügung:
 - [https://github.com/postnas-suite/postnas-suite-mapserver](https://github.com/postnas-suite/postnas-suite-mapserver)
 
 Auf dieser Seite werden die notwendigen Anpassungen beschrieben
 
-1. Alle Dateien und die Ordner fonts,symbols, templates auf den gewünschten Server legen
+1. Alle Dateien und die Ordner fonts, symbols, templates auf den gewünschten Server legen
 
 2. Mapdatei (alkis_n_muster) anpassen:
   - Mapbereich
