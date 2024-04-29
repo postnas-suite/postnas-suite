@@ -24,7 +24,7 @@ Die PostNAS Suite stellt dabei ein Importwerkzeug und -skripte, Mapserver-Mapdat
 - [Übersicht der Komponenten](postnas-suite-komponenten.md)
 - [PostNAS-Suite und Mapbender](postnas-suite-mapbender.md)
 - [PostNAS-Suite und Buchauskunft](postnas-suite-buchauskunft.md)
-- [PostNAS-Suite und Mapserver](postnas-suite-mapserver.md)
+- [PostNAS-Suite und MapServer](postnas-suite-mapserver.md)
  
 
 
