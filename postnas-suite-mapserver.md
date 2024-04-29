@@ -10,7 +10,6 @@ Auf dieser Seite werden die notwendigen Anpassungen beschrieben
 1. Alle Dateien und die Ordner fonts,symbols, templates auf den gewünschten Server legen
 
 2. Mapdatei (alkis_n_muster) anpassen:
-
   - Mapbereich
     - EXTENT anpassen
     - ggf. PROJECTION anpassen
@@ -21,6 +20,5 @@ Auf dieser Seite werden die notwendigen Anpassungen beschrieben
     - CONNECTION anpassen
     - EXTENT anpassen
     - ggf. PROJECTION anpassen
-
    
 3. Templates anpassen
