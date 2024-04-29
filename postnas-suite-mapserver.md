@@ -1,6 +1,6 @@
 ## PostNAS-Suite und Mapserver
 
-## Mapserver
+## MapServer
 
 Im github sehen Dateien für eine Mapserver Anwendung zur Verfügung:
 - [https://github.com/postnas-suite/postnas-suite-mapserver](https://github.com/postnas-suite/postnas-suite-mapserver)
@@ -21,5 +21,6 @@ Auf dieser Seite werden die notwendigen Anpassungen beschrieben
     - CONNECTION anpassen
     - EXTENT anpassen
     - ggf. PROJECTION anpassen
+
    
 3. Templates anpassen
