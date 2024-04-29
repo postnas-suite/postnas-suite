@@ -1,4 +1,4 @@
-## PostNAS-Suite und Mapserver
+## PostNAS-Suite und MapServer
 
 ## MapServer
 
