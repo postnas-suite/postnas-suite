@@ -32,7 +32,7 @@ Die PostNAS Suite stellt dabei ein Importwerkzeug und -skripte, Mapserver-Mapdat
 
 Die Demoanwendung Rio-PostNAS-Demo des Oberbergischen Kreises verfügt über die Visualisierung von ALKIS, der Punktnummernübersicht sowie von Straßen- und Gebäudemarkern.
 
-- [https://rio.obk.de/mapbender3/app.php/application/RIO_PostNAS_Demo](https://rio.obk.de/mapbender3/app.php/application/RIO_PostNAS_Demo)
+- [https://rio.obk.de/mapbender/application/RIO_PostNAS_Demo](https://rio.obk.de/mapbender/application/RIO_PostNAS_Demo)
 
 
 ### Programme
