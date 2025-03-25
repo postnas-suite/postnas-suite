@@ -12,6 +12,7 @@ Seit 2012 finden die PostNAS-Suite Anwendertreffen statt. Sie finden in der Rege
 
 Die Teilnahme an den Treffen ist offen.
 
+- [FOSSGIS 2025 Münster 26.3.2025](./anwendertreffen/anwendertreffen-2025-03-26.md)
 - [FOSSGIS 2024 Hamburg 21.3.2024](./anwendertreffen/anwendertreffen-2024-03-21.md)
 - [Online 15.12.2023](./anwendertreffen/anwendertreffen-2023-12-15.md)
 - [FOSSGIS 2023 Berlin Adlershof 15.3.2023](./anwendertreffen/anwendertreffen-2023-03-13.md)
