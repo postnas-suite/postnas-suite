@@ -147,7 +147,7 @@ Auf der FOSSGIS hat Oliver Schmidt (LVermGeo RLP) einen Vortrag zum Thema "Keine
 
 Die Skripte zur Flurstückszerschneidung und zu anderen Prozessen stehen im Repository postnas-suite-fav [12] bereit. Er erweitert das Repository in den nächsten Wochen noch um weitere SQLs/Skripte. 
 
-Die Repositories können auch von anderen Aktiven erweitert werden. Das kann ganz einfach über einen Pull Request stellen (Fragen dazu gerne über die Mailingliste).
+Die Repositories können auch von anderen Aktiven erweitert werden. Das kann ganz einfach über einen Pull Request erfolgen (Fragen dazu gerne über die Mailingliste).
 
 Der Flurstücksabschnittsverschneider ist als Skript namens faf.pl implementiert, der die Flächenabschnitte der Flurstücke (FAF) mit der tatsächlichen Nutzung, der öffentlich-rechtlichen und sonstigen Festlegungen, der Bewertung und der Bodenschätzung berechnet. 
 
