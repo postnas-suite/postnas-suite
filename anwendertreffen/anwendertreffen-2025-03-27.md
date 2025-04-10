@@ -90,7 +90,7 @@ Die AdV (Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesr
 Der Vortragende Stefan Zaunseder kann ggf. Kontakt zur AdV bereitstellen.
 
 Alternativer Import von ALKIS-Daten aus Bayern:
-Über den ALKIS-WFS können einzelne Datensätze extrahiert werden. Dies ist allerdings keine 
+Über den ALKIS-WFS können einzelne Datensätze extrahiert werden.
 
 
 b) Die EU hat Vorgaben zur Umsetzung der GID7 (GeoInfoDok7) gemacht ([10] und [11]). Trotz dieser Vereinheitlichungs-Verordnung haben die Bundesländer die GID7 unterschiedlich umgesetzt.
@@ -137,8 +137,8 @@ Zu Beginn des Imports wird das Datenbank-Schema angelegt. Dieses Schema kann in 
 
 #### 9. Probleme mit Flurstücken unterschiedlichen Alters
 
-Bei der Beschaffung von großen Datenmengen (größeren Gebieten, z.B. Bundesländern) können unterschiedliche Stände vorliegen (da open-data-Datensätze nicht an einem Tag heruntergeladen wurden)
-Das kann dazu führen, dass es beim späteren Hinzufügen der Eigentümerdaten Probleme entstehen.
+Bei der Beschaffung von großen Datenmengen (größeren Gebieten, z.B. Bundesländern) können unterschiedliche Stände vorliegen (wenn open-data-Datensätze nicht an einem Tag heruntergeladen wurden).
+Das kann dazu führen, dass es beim späteren Hinzufügen der Eigentümerdaten Probleme mit dem Alter der Flurstücke gibt.
 
 
 #### 10. Flurstückszerschneidung (FAV)
