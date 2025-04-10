@@ -49,11 +49,11 @@ Die Webseite wird aus einem Repository von Github gebaut [2]
 
 Es befinden sich im Projekt noch weitere Repositories [3]. Hier finden Sie die PHP-Infoskripte, nützliche SQLs und MapServer Mapdateien.
 
-[1] https://postnas-suite.github.io/postnas-suite/
+[1] [https://postnas-suite.github.io/postnas-suite/](https://postnas-suite.github.io/postnas-suite/)
 
-[2] https://github.com/postnas-suite/postnas-suite/
+[2] [https://github.com/postnas-suite/postnas-suite/](https://github.com/postnas-suite/postnas-suite/)
 
-[3] https://github.com/orgs/postnas-suite/repositories
+[3] [https://github.com/orgs/postnas-suite/repositories]h(ttps://github.com/orgs/postnas-suite/repositories)
 
 #### 2. Differenzdaten
 
@@ -137,14 +137,15 @@ Zu Beginn des Imports wird das Datenbank-Schema angelegt. Dieses Schema kann in 
 
 #### 9. Probleme mit Flurstücken unterschiedlichen Alters
 
-Bei der Beschaffung von großen Datenmengen (größeren Gebieten, z.B. Bundesländern) können unterschiedliche Stände vorliegen (wenn open-data-Datensätze nicht an einem Tag heruntergeladen wurden).
+Bei der Beschaffung von großen Datenmengen (größere Gebieten, z.B. Bundesländern) können unterschiedliche Stände vorliegen, wenn open-data-Datensätze nicht an einem Tag heruntergeladen wurden.
 Das kann dazu führen, dass es beim späteren Hinzufügen der Eigentümerdaten Probleme mit dem Alter der Flurstücke gibt.
 
 
 #### 10. Flurstückszerschneidung (FAV)
 
 Auf der FOSSGIS hat Oliver Schmidt (LVermGeo RLP) einen Vortrag zum Thema "Keine Angst vor der GeoInfoDok 7 - 3A-Datenverarbeitung mit PostNAS" [13] gehalten.
-Die Skripte zur Flurstückszerschneidung und anderen Prozessen stehen im Repository postnas-suite-fav [12]. Er erweitert das Repository in den nächsten Wochen noch um weitere SQLs/Skripte. 
+
+Die Skripte zur Flurstückszerschneidung und zu anderen Prozessen stehen im Repository postnas-suite-fav [12] bereit. Er erweitert das Repository in den nächsten Wochen noch um weitere SQLs/Skripte. 
 
 Die Repositories können auch von anderen Aktiven erweitert werden. Das kann ganz einfach über einen Pull Request stellen (Fragen dazu gerne über die Mailingliste).
 
@@ -156,16 +157,18 @@ Der Flurstücksabschnittsverschneider ist als Skript namens faf.pl implementiert
 
 #### 11. Qualität der Grenzpunkte
 Von Oliver Schmidt wurde auch die Qualität der Grenzpunkte nachträglich bearbeitet.
-Seine abgewandelten Scripte des NorGIS-ALKIS-Imports finden sich auf GitHub im Repository postnas-suite-scripts [15] siehe 9_alkispunkt_mod.sql [14].
+Seine abgewandelten Scripte des NorGIS-ALKIS-Imports finden sich auf GitHub im Repository postnas-suite-scripts [15] siehe 9_alkispunkt_mod.sql.
 
 Wenn das ALKIS Schemata in PostGIS von public abweicht, sollte der searchpath auf das korrekte Schema gesetzt werden.
 
-[15] https://github.com/postnas-suite/postnas-suite-scripts
+[15] https://github.com/postnas-suite/postnas-suite-scripts/tree/main/alkisproducts_rp
 
 
 #### Anwendertreffen
 
-Wann soll das nächste Treffen stattfinden? Spätestens zur nächsten FOSSGIS 2026 in Göttingen.
+Wann soll das nächste Treffen stattfinden? 
+
+Spätestens zur nächsten FOSSGIS 2026 in Göttingen.
 
 [https://postnas-suite.github.io/postnas-suite/postnas-suite-anwendertreffen.html](https://postnas-suite.github.io/postnas-suite/postnas-suite-anwendertreffen.html)
 
