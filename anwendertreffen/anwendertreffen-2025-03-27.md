@@ -45,7 +45,7 @@ Die neue Webseite [1] wurde vorgestellt, es finden sich Informationen zu:
 - Testdaten
 - Anmeldung zur Mailingliste
 
-Die Webseite wird aus einem Repository von Githuba genbaut [2]
+Die Webseite wird aus einem Repository von Github gebaut [2]
 
 Es befinden sich im Projekt noch weitere Repositories [3]. Hier finden Sie die PHP-Infoskripte, nützliche SQLs und MapServer Mapdateien.
 
@@ -57,13 +57,14 @@ Es befinden sich im Projekt noch weitere Repositories [3]. Hier finden Sie die P
 
 #### 2. Differenzdaten
 
-Nachdem der Import des ALKIS-Import Datensatzes mit NortGIS-ALKIS-Import [3] erfolgt ist, können der Differenzdaten im NBA-Verfahren (Nutzerbezogene Bestandsdatenaktualisierung) aktualisiert werden.
+Nachdem der Import des ALKIS-Import Datensatzes mit NortGIS-ALKIS-Import [4] erfolgt ist, können die Differenzdaten im NBA-Verfahren (Nutzerbezogene Bestandsdatenaktualisierung) aktualisiert werden.
 Der Differenzdatensatz kann über den branch gid7 [4]  oder über den branch gid7i (inkrementell) [5] erfolgen. 
 Differenzdaten im NBA-Verfahren werden nicht als Open Data zur Verfügung gestellt.
 
 FEATURE WUNSCH: Ein Wunsch wäre es, dass man auf ein Flurstück klicken kann und dann die Historie in den Informationen ausgegeben wird.
 
 [4] https://github.com/norBIT/alkisimport/tree/gid7
+
 [5] https://github.com/norBIT/alkisimport/tree/gid7i
 
 
