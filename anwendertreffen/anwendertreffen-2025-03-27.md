@@ -118,14 +118,14 @@ Er gab den Hinweis, dass GID7-Daten nicht als Differenzdatensatz den GID6-Daten 
 Es gibt im Import unter postnascreate.d ein neues Script zur Transformation der Daten in ein einheitliches KBS: 1_transform.sql
 
 
-####7. NRW Open Data
+#### 7. NRW Open Data
 In NRW gibt es die Eigentümer nur ohne Geometrien. 
 Dadurch ist es schwierig, die Open-Data-Daten der Flurstücke mit den Eigentümerdaten als Auszug aus dem Grundbuch zu verknüpfen.
 
 Daher sollte man im Katasteramt bei der Bestellung alle benötigten Daten angeben (Auszug aus dem Grundbuch mit Flurstücksgeometrien)
 
 
-####8. Wie können Anpassungen im Code erfolgen?
+#### 8. Wie können Anpassungen im Code erfolgen?
 
 Ein Anwender möchte den Quellcode bearbeiten, da er nur Flurstücke und Eigentümer benötigt und keine weiteren Informationen.
 
