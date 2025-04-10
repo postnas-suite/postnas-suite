@@ -83,10 +83,10 @@ Jürgen Fischer bat ihn, die Fehlermeldungen an die PostNAS-Mailingliste zu schi
 
 #### 5. Darstellung bundesweiter ALKIS-Daten
 Thema war ein Vortrag der FOSSGIS 2025 "Open ALKIS? – Oder was passiert, wenn der deutsche Föderalismus auf EU-Recht trifft" von Stefan Zaunseder[8].
-Die Durchführungsverordnung (EU) 2023/138 (09.06.2024) besagt u.a., dass Teile des Liegenschaftskatasters als Open Data zur Verfügung stehen sollen (Gebäude, Flurstücke/Grundstücke (Katasterparzellen), Referenzparzellen und landwirtschaftliche Parzellen,). 
+Die Durchführungsverordnung (EU) 2023/138 (09.06.2024) besagt u.a., dass Teile des Liegenschaftskatasters als Open Data zur Verfügung stehen sollen (Gebäude, Flurstücke/Grundstücke (Katasterparzellen), Referenzparzellen und landwirtschaftliche Parzellen). 
 
 a) Bayern ist das einzige Bundesland, dass diese Daten bisher nicht als Open Data zur Verfügung stellt.
-Die AdV (Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland) [9] wäre der richtige Ansprechpartner, um zu bemängeln, das Bayern seine Daten nicht zur Verfügung stellt. Das BKG ist dafür nicht zuständig.
+Die AdV (Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland) [9] wäre der richtige Ansprechpartner, um zu bemängeln, dass Bayern seine Daten nicht zur Verfügung stellt. Das BKG ist dafür nicht zuständig.
 Der Vortragende Stefan Zaunseder kann ggf. Kontakt zur AdV bereitstellen.
 
 Alternativer Import von ALKIS-Daten aus Bayern:
@@ -94,6 +94,7 @@ Alternativer Import von ALKIS-Daten aus Bayern:
 
 
 b) Die EU hat Vorgaben zur Umsetzung der GID7 (GeoInfoDok7) gemacht ([10] und [11]). Trotz dieser Vereinheitlichungs-Verordnung haben die Bundesländer die GID7 unterschiedlich umgesetzt.
+
 FEATURE WUNSCH: Es gibt den Wunsch, dass sich Länder zur GID7 absprechen. Lars Rosskoven fragt bei der AdV nach. 
 
 
