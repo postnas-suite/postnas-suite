@@ -9,17 +9,17 @@
 
 ### Themen
 
-- 1. Neue Repositories und Webseite des Postnas-Suite-Projektes
-- 2. Differenzdaten
-- 3. Stand der Daten in der Buchauskunft
-- 4. Fehlermeldung beim Import
-- 5. Darstellung bundesweiter ALKIS Daten
-- 6. Lob an Jürgen Fischer
-- 7. NRW open data
-- 8. Energieversorger (engie) möchte im Code arbeiten
-- 9. Probleme mit Flurstücken unterschiedlichen Alters
-- 10. FAV Flurstückszerschneidung
-- 11. Qualität der Grenzpunkte
+1. Neue Repositories und Webseite des Postnas-Suite-Projektes
+2. Differenzdaten
+3. Stand der Daten in der Buchauskunft
+4. Fehlermeldung beim Import
+5. Darstellung bundesweiter ALKIS Daten
+6. Lob an Jürgen Fischer
+7. NRW open data
+8. Energieversorger (engie) möchte im Code arbeiten
+9. Probleme mit Flurstücken unterschiedlichen Alters
+10. FAV Flurstückszerschneidung
+11. Qualität der Grenzpunkte
  
 
 ### Protokoll 
