@@ -4,7 +4,7 @@
 - Ankündigung: [https://pretalx.com/fossgis2025/talk/HMFGPS/](https://pretalx.com/fossgis2025/talk/HMFGPS/)
 - Einladungsmail: [https://lists.osgeo.org/pipermail/nas/2025-February/001429.html](https://lists.osgeo.org/pipermail/nas/2025-February/001429.html)
 - Teilnehmer/-Innen: 27 Personen vor Ort auf der FOSSGIS, 5 Teilnehmende Online
-- FOSSGIS 2025 Konferenz https://fossgis-konferenz.de/2025/
+- FOSSGIS 2025 Konferenz [https://fossgis-konferenz.de/2025/](https://fossgis-konferenz.de/2025/)
 
 
 ### Themen
@@ -53,7 +53,7 @@ Es befinden sich im Projekt noch weitere Repositories [3]. Hier finden Sie die P
 
 [2] [https://github.com/postnas-suite/postnas-suite/](https://github.com/postnas-suite/postnas-suite/)
 
-[3] [https://github.com/orgs/postnas-suite/repositories]h(ttps://github.com/orgs/postnas-suite/repositories)
+[3] [https://github.com/orgs/postnas-suite/repositories](https://github.com/orgs/postnas-suite/repositories)
 
 #### 2. Differenzdaten
 
@@ -63,22 +63,22 @@ Differenzdaten im NBA-Verfahren werden nicht als Open Data zur Verfügung gestel
 
 FEATURE WUNSCH: Ein Wunsch wäre es, dass man auf ein Flurstück klicken kann und dann die Historie in den Informationen ausgegeben wird.
 
-[4] https://github.com/norBIT/alkisimport/tree/gid7
+[4] [https://github.com/norBIT/alkisimport/tree/gid7](https://github.com/norBIT/alkisimport/tree/gid7)
 
-[5] https://github.com/norBIT/alkisimport/tree/gid7i
+[5] [https://github.com/norBIT/alkisimport/tree/gid7i](https://github.com/norBIT/alkisimport/tree/gid7i)
 
 
 #### 3. Stand der Daten in der Buchauskunft
 FEATURE WUNSCH: Bei der Buchauskunft [6] wäre es wünschenswert, den Stand der Daten auszugeben.
 
-[6] https://github.com/postnas-suite/postnas-suite-php-info
+[6] [https://github.com/postnas-suite/postnas-suite-php-info](https://github.com/postnas-suite/postnas-suite-php-info)
 
 
 #### 4. Fehlermeldung beim Import
 Es wurde von einem Anwender angemerkt, dass bei ihm der Import abbricht.
 Jürgen Fischer bat ihn, die Fehlermeldungen an die PostNAS-Mailingliste zu schicken oder ein Ticket auf github zu erstellen [7].
 
-[7] https://github.com/norBIT/alkisimport/issues
+[7] [https://github.com/norBIT/alkisimport/issues](https://github.com/norBIT/alkisimport/issues)
 
 
 #### 5. Darstellung bundesweiter ALKIS-Daten
@@ -98,20 +98,20 @@ b) Die EU hat Vorgaben zur Umsetzung der GID7 (GeoInfoDok7) gemacht ([10] und [1
 FEATURE WUNSCH: Es gibt den Wunsch, dass sich Länder zur GID7 absprechen. Lars Rosskoven fragt bei der AdV nach. 
 
 
-[8] https://pretalx.com/fossgis2025/talk/TRJW9F/
+[8] [https://pretalx.com/fossgis2025/talk/TRJW9F/](https://pretalx.com/fossgis2025/talk/TRJW9F/)
 
-[9] https://www.adv-online.de/Startseite/
+[9] [https://www.adv-online.de/Startseite/](https://www.adv-online.de/Startseite/)
 
-[10] https://www.adv-online.de/GeoInfoDok/Aktuelle-Anwendungsschemata/
+[10] [https://www.adv-online.de/GeoInfoDok/Aktuelle-Anwendungsschemata/](https://www.adv-online.de/GeoInfoDok/Aktuelle-Anwendungsschemata/)
 
-[11] https://www.adv-online.de/GeoInfoDok/Aktuelle-Anwendungsschemata/AAA-Anwendungsschema-7.1.2-Referenz-7.1/
+[11] [https://www.adv-online.de/GeoInfoDok/Aktuelle-Anwendungsschemata/AAA-Anwendungsschema-7.1.2-Referenz-7.1/](https://www.adv-online.de/GeoInfoDok/Aktuelle-Anwendungsschemata/AAA-Anwendungsschema-7.1.2-Referenz-7.1/)
 
 
 #### 6. Lob an Jürgen Fischer
 
 Es wurde ein Lob an Jürgen Fischer für die Umsetzung der GID7 mit dem NorGIS-ALKIS-Import-Werkzeug ausgesprochen!!!
 
-[12] https://www.norbit.de/68/
+[12] [https://www.norbit.de/68/](https://www.norbit.de/68/)
 
 Er gab den Hinweis, dass GID7-Daten nicht als Differenzdatensatz den GID6-Daten hinzugefügt werden können. Es ist notwendig die GID7-Daten als Erstimport neu aufzubauen.
 
@@ -151,9 +151,9 @@ Die Repositories können auch von anderen Aktiven erweitert werden. Das kann gan
 
 Der Flurstücksabschnittsverschneider ist als Skript namens faf.pl implementiert, der die Flächenabschnitte der Flurstücke (FAF) mit der tatsächlichen Nutzung, der öffentlich-rechtlichen und sonstigen Festlegungen, der Bewertung und der Bodenschätzung berechnet. 
 
-[13] https://pretalx.com/fossgis2025/talk/A8US8F/
+[13] [https://pretalx.com/fossgis2025/talk/A8US8F/](https://pretalx.com/fossgis2025/talk/A8US8F/)
 
-[14] https://github.com/postnas-suite/postnas-suite-fav
+[14] [https://github.com/postnas-suite/postnas-suite-fav](https://github.com/postnas-suite/postnas-suite-fav)
 
 #### 11. Qualität der Grenzpunkte
 Von Oliver Schmidt wurde auch die Qualität der Grenzpunkte nachträglich bearbeitet.
@@ -161,7 +161,7 @@ Seine abgewandelten Scripte des NorGIS-ALKIS-Imports finden sich auf GitHub im R
 
 Wenn das ALKIS Schemata in PostGIS von public abweicht, sollte der searchpath auf das korrekte Schema gesetzt werden.
 
-[15] https://github.com/postnas-suite/postnas-suite-scripts/tree/main/alkisproducts_rp
+[15] [https://github.com/postnas-suite/postnas-suite-scripts/tree/main/alkisproducts_rp](https://github.com/postnas-suite/postnas-suite-scripts/tree/main/alkisproducts_rp)
 
 
 #### Anwendertreffen
@@ -174,7 +174,7 @@ Spätestens zur nächsten FOSSGIS 2026 in Göttingen.
 
 #### Zugriff postnas-suite Repositories
 Wer gerne Zugriff auf die Webseite und die weiteren Repositories haben möchte, um Bearbeitungen durchzuführen, kann sich gerne melden.
-https://github.com/postnas-suite/
+[https://github.com/postnas-suite/](https://github.com/postnas-suite/)
 
 
 ### Impressionen 
