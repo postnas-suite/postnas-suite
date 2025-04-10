@@ -98,8 +98,11 @@ FEATURE WUNSCH: Es gibt den Wunsch, dass sich Länder zur GID7 absprechen. Lars 
 
 
 [8] https://pretalx.com/fossgis2025/talk/TRJW9F/
+
 [9] https://www.adv-online.de/Startseite/
+
 [10] https://www.adv-online.de/GeoInfoDok/Aktuelle-Anwendungsschemata/
+
 [11] https://www.adv-online.de/GeoInfoDok/Aktuelle-Anwendungsschemata/AAA-Anwendungsschema-7.1.2-Referenz-7.1/
 
 
@@ -146,6 +149,7 @@ Die Repositories können auch von anderen Aktiven erweitert werden. Das kann gan
 Der Flurstücksabschnittsverschneider ist als Skript namens faf.pl implementiert, der die Flächenabschnitte der Flurstücke (FAF) mit der tatsächlichen Nutzung, der öffentlich-rechtlichen und sonstigen Festlegungen, der Bewertung und der Bodenschätzung berechnet. 
 
 [13] https://pretalx.com/fossgis2025/talk/A8US8F/
+
 [14] https://github.com/postnas-suite/postnas-suite-fav
 
 #### 11. Qualität der Grenzpunkte
