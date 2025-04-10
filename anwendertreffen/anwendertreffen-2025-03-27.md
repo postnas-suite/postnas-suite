@@ -119,7 +119,7 @@ Es gibt im Import unter postnascreate.d ein neues Script zur Transformation der 
 
 
 #### 7. NRW Open Data
-In NRW gibt es die Eigentümer nur ohne Geometrien. 
+In NRW werden die Eigentümer Daten nur ohne Geometrien ausgegeben. 
 Dadurch ist es schwierig, die Open-Data-Daten der Flurstücke mit den Eigentümerdaten als Auszug aus dem Grundbuch zu verknüpfen.
 
 Daher sollte man im Katasteramt bei der Bestellung alle benötigten Daten angeben (Auszug aus dem Grundbuch mit Flurstücksgeometrien)
@@ -129,9 +129,10 @@ Daher sollte man im Katasteramt bei der Bestellung alle benötigten Daten angebe
 
 Ein Anwender möchte den Quellcode bearbeiten, da er nur Flurstücke und Eigentümer benötigt und keine weiteren Informationen.
 
-Jürgen Fischer erläutert, dass der Datenimport beim ogr2ogr-Aufruf gefiltert werden kann. Beim Import kann einen Angabe zum Layer erfolgen. 
+Jürgen Fischer erläutert, dass der Datenimport beim ogr2ogr-Aufruf gefiltert werden kann. Beim Import kann eine Angabe zum Layer erfolgen. 
+
 Es ist auch möglich, die NAS-Daten so anzulegen, dass nur einzelne Tabellen erzeugt und befüllt werden.
-Zu Beginn der Imports wird das Datenbank-Schema angelegt. Dieses Schema kann erweitert werden.
+Zu Beginn des Imports wird das Datenbank-Schema angelegt. Dieses Schema kann in den Scripten bearbeitet werden.
 
 
 #### 9. Probleme mit Flurstücken unterschiedlichen Alters
