@@ -23,8 +23,8 @@ Das Suchen-Element kann dann mit den folgenden YAML-Definitionen konfiguriert we
 #### View Flurstückssuche
 
 ```
-Drop view qry_mb3_ax_flurstueck_suche;
-CREATE OR REPLACE VIEW public.qry_mb3_ax_flurstueck_suche AS 
+Drop view qry_mapbender_ax_flurstueck_suche;
+CREATE OR REPLACE VIEW public.qry_mapbender_ax_flurstueck_suche AS 
  SELECT f.gml_id, f.gemarkungsnummer::text AS gemarkungsnummer, f.beginnt, f.endet, 
     g.bezeichnung as gemarkungsname, g.land,  f.flurnummer::text AS flurnummer,
     f.zaehler::text AS zaehler, f.nenner::text AS nenner, replace(f.flurstueckskennzeichen::text, '_'::text, ''::text) AS flurstueckskennzeichen,
@@ -38,8 +38,8 @@ CREATE OR REPLACE VIEW public.qry_mb3_ax_flurstueck_suche AS
 #### View Adresssuche
 
 ```
-Drop view qry_mb3_adresse_suche;
- CREATE OR REPLACE VIEW public.qry_mb3_adresse_suche AS
+Drop view qry_mapbender_adresse_suche;
+ CREATE OR REPLACE VIEW public.qry_mapbender_adresse_suche AS
 
   SELECT h.ogc_fid,replace(h.hausnummer::text, ' '::text, ''::text) AS hausnummer,h.gemeinde::text AS gemeinde,c.bezeichnung as gemeindename,
     h.kreis::text AS kreis,  g.wkb_geometry AS the_geom_etrs ,h.gml_id,  h.lage,   k.bezeichnung as strasse, c.regierungsbezirk
@@ -53,7 +53,7 @@ Drop view qry_mb3_adresse_suche;
 #### View Eigentümersuche
 
 ```
-CREATE OR REPLACE VIEW public.qry_mb3_eigentuemer_suche_union AS 
+CREATE OR REPLACE VIEW public.qry_mapbender_eigentuemer_suche_union AS 
  SELECT foo.flurstueckskennzeichen, foo.flur, foo.fs_zaehler, foo.fs_nenner, foo.flaeche,
     foo.bezirkname, foo.gb_blatt,foo.blattart, foo.bvnr, foo.buchgsartwert, foo.buchgsart,
     foo.name_num, foo.nachname, foo.vorname ,  foo.geom
@@ -86,7 +86,7 @@ CREATE OR REPLACE VIEW public.qry_mb3_eigentuemer_suche_union AS
 #### View Grundbuchsuche
 
 ```
-CREATE OR REPLACE VIEW public.qry_mb3_grundbuch_suche AS
+CREATE OR REPLACE VIEW public.qry_mapbender_grundbuch_suche AS
  SELECT foo.buchungsart, foo.bezirkname, foo.bezirk, foo.gb_blatt,
     foo.blattart, foo.flurstueckskennzeichen, foo.geom, foo.endet
    FROM ( SELECT s.buchungsart, b.bezeichnung AS bezirkname, b.bezirk,
@@ -117,7 +117,7 @@ CREATE OR REPLACE VIEW public.qry_mb3_grundbuch_suche AS
 class: Mapbender\CoreBundle\Component\SQLSearchEngine
 class_options:
   connection: alkis
-  relation: qry_mb3_ax_flurstueck_suche
+  relation: qry_mapbender_ax_flurstueck_suche
   attributes:
     - gml_id
     - gemarkungsnummer
@@ -179,7 +179,7 @@ results:
 class: Mapbender\CoreBundle\Component\SQLSearchEngine
 class_options:
   connection: alkis
-  relation: qry_mb3_adresse_suche
+  relation: qry_mapbender_adresse_suche
   attributes:
     - kreis
     - gemeindenummer
@@ -228,7 +228,7 @@ results:
 class: Mapbender\CoreBundle\Component\SQLSearchEngine
 class_options:
   connection: alkis
-  relation: qry_mb3_eigentuemer_suche_union
+  relation: qry_mapbender_eigentuemer_suche_union
   attributes:
     - gb_blatt
     - buchgsart
@@ -318,7 +318,7 @@ results:
 class: Mapbender\CoreBundle\Component\SQLSearchEngine
 class_options:
   connection: alkis
-  relation: qry_mb3_grundbuch_suche
+  relation: qry_mapbender_grundbuch_suche
   attributes:
     - gb_blatt
     - buchungsart
