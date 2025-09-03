@@ -9,12 +9,12 @@ Dazu müssen folgende Schritte zur Vorbereitung erfolgen
 
 
 1. ALKIS-Datenbank in Mapbender einbinden
-   -  Einbinden der ALKIS Datenbank in Mapbender siehe https://doc.mapbender.org/en/customization/database.html
+   -  Einbinden der ALKIS Datenbank in Mapbender siehe [https://doc.mapbender.org/de/customization/yaml.html#datenbank-konfiguration](https://doc.mapbender.org/de/customization/yaml.html#datenbank-konfiguration)
 
 2. PostgreSQL-Views für die Suchen in der Datenbank erzeugen
 
 3. Suchen-Element in die Anwendung einbinden
-   -  siehe https://doc.mapbender.org/de/functions/search/search_router.html
+   -  siehe [https://doc.mapbender.org/de/functions/search/search_router.html](https://doc.mapbender.org/de/functions/search/search_router.html)
 
 Das Suchen-Element kann dann mit den folgenden YAML-Definitionen konfiguriert werden.
 
