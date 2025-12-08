@@ -10,11 +10,8 @@
 
 | Land  			| GID6 Link | GID7 Link |
 |---|---|---|
-| Baden-Württemberg		|  | [https://www.lgl-bw.de/Produkte/Testdaten/Testdaten-Liegenschaftskataster/](https://www.lgl-bw.de/Produkte/Testdaten/Testdaten-Liegenschaftskataster/
-) | 
-| Bayern			| |[https://www.ldbv.bayern.de/produkte/testdaten/
-](https://www.ldbv.bayern.de/produkte/testdaten/
-)| 
+| Baden-Württemberg		|  | [https://www.lgl-bw.de/Produkte/Testdaten/Testdaten-Liegenschaftskataster/](https://www.lgl-bw.de/Produkte/Testdaten/Testdaten-Liegenschaftskataster/) | 
+| Bayern			| |[https://www.ldbv.bayern.de/produkte/testdaten/](https://www.ldbv.bayern.de/produkte/testdaten/)| 
 | Berlin-Brandenburg		| | [https://geobasis-bb.de/lgb/de/geodaten/liegenschaftskataster/geoinfodok-7-1](https://geobasis-bb.de/lgb/de/geodaten/liegenschaftskataster/geoinfodok-7-1) | 
 | Hessen			| | [https://hvbg.hessen.de/geoinformation/afis-alkis-atkis-modell/geoinfodok-neu](https://hvbg.hessen.de/geoinformation/afis-alkis-atkis-modell/geoinfodok-neu) | 
 | Mecklenburg-Vorpommern	| | FAQ siehe MV ALKIS – Umstellung auf AAA-AS 7.1 [https://www.laiv-mv.de/Geoinformation/FAQ/](https://www.laiv-mv.de/Geoinformation/FAQ/) | 
