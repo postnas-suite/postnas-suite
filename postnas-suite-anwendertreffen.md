@@ -2,8 +2,9 @@
 
 ```
 Das nächstes PostNAS-Suite Anwendertreffen
-findet ggf. in Münster statt
+findet auf der FOSSGIS 2026 in Göttingen statt. 25.03.2026 14:15–15:15, BoF2 (ZHG 005)
 ```
+- https://pretalx.com/fossgis2026/talk/ZBZBFC/
 
 Seit 2012 finden die PostNAS-Suite Anwendertreffen statt. Sie finden in der Regel während der FOSSGIS-Konferenz im Frühjahr und manchmal noch zusätzlich im Herbst statt.
 
@@ -12,6 +13,7 @@ Seit 2012 finden die PostNAS-Suite Anwendertreffen statt. Sie finden in der Rege
 
 Die Teilnahme an den Treffen ist offen.
 
+- [FOSSGIS 2026 Göttingen 25.3.2026](./anwendertreffen/anwendertreffen-2026-03-25.md)
 - [FOSSGIS 2025 Münster 27.3.2025](./anwendertreffen/anwendertreffen-2025-03-27.md)
 - [FOSSGIS 2024 Hamburg 21.3.2024](./anwendertreffen/anwendertreffen-2024-03-21.md)
 - [Online 15.12.2023](./anwendertreffen/anwendertreffen-2023-12-15.md)
