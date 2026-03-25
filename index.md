@@ -19,7 +19,7 @@ Die PostNAS-Suite bietet Lösungen zum Import von NAS-Dateien und zur Weitervera
 
 Die PostNAS Suite stellt dabei ein Importwerkzeug und -skripte, Mapserver-Mapdateien für WMS, Mapbender Suchmodule und Skripte zur Informationsausgabe bereit.
 
-Über das Python Werkzeug norGIS ALKIS Import können NAS-Dateien einfach importiert werden. Die QGIS-Erweiterung norGIS ALKIS dienst zur Visualsierung in QGIS. Aus QGIS heraus kann eine einfache Veröffentlichung als WMS über QGIS-Server erfolgen.
+Über das Python Werkzeug norGIS ALKIS Import können NAS-Dateien einfach importiert werden. Die QGIS-Erweiterung norGIS ALKIS dienst zur Visualisierung in QGIS. Aus QGIS heraus kann eine einfache Veröffentlichung als WMS über QGIS-Server erfolgen.
 
 - [Übersicht der Komponenten](postnas-suite-komponenten.md)
 - [PostNAS-Suite und Mapbender](postnas-suite-mapbender.md)
